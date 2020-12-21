@@ -6,7 +6,7 @@ package myjava.oops.polymorphism;
  * @author Vishnu Kandanelly
  */
 public interface Payment {
-    public void pay();
+    void pay();
 }
 
 /**
