@@ -1,7 +1,7 @@
 package myjava.multithreading;
 
 /**
- * @author ite103218 - Vishnu Kandanelly
+ * @author Vishnu Kandanelly
  */
 public class ThreadDemo {
     public static void main(String[] args) {
