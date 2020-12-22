@@ -16,13 +16,31 @@ public class InterThreadCommunication {
 
 class Number {
     int num;
+    boolean valueSet = false;
 
-    public int getNum() {
-        return num;
+    public synchronized void getNum() {
+        while (!valueSet) {
+            try {
+                wait();
+            } catch (Exception ignored) {
+            }
+        }
+        System.out.println("Get Number: "+num);
+        valueSet=false;
+        notify();
     }
 
-    public void setNum(int num) {
+    public synchronized void setNum(int num) {
+        while (valueSet) {
+            try {
+                wait();
+            } catch (Exception ignored) {
+            }
+        }
+        System.out.println("Set Number: "+num);
         this.num = num;
+        valueSet = true;
+        notify();
     }
 }
 

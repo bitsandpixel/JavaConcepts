@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/myjava/multithreading/InterThreadCommunication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myjava/multithreading/RunnableImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/multithreading/RunnableImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myjava/multithreading/ThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/multithreading/ThreadDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myjava/multithreading/InterThreadCommunication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/multithreading/InterThreadCommunication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +54,13 @@
       <recent name="myjava.oops.abstraction" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SynchronizationDemo">
-    <configuration name="Polymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myjava.oops.polymorphism.Polymorphism" />
+  <component name="RunManager" selected="Application.InterThreadCommunication">
+    <configuration name="InterThreadCommunication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myjava.multithreading.InterThreadCommunication" />
       <module name="JavaConcepts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myjava.oops.polymorphism.*" />
+          <option name="PATTERN" value="myjava.multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InterThreadCommunication" />
         <item itemvalue="Application.SynchronizationDemo" />
         <item itemvalue="Application.RunnableLambda" />
         <item itemvalue="Application.RunnableImpl" />
         <item itemvalue="Application.ThreadDemo" />
-        <item itemvalue="Application.Polymorphism" />
       </list>
     </recent_temporary>
   </component>
@@ -156,10 +154,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1608677610895">
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1608678651317">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1608677610895" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1608678651317" />
     <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1608428722041" />
     <state x="551" y="307" width="433" height="216" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1608406596938">
       <screen x="0" y="0" width="1536" height="824" />
@@ -177,21 +175,25 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="524" y="115" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1608407084981" />
-    <state width="1537" height="270" key="GridCell.Tab.0.bottom" timestamp="1608519436195">
+    <state width="1537" height="218" key="GridCell.Tab.0.bottom" timestamp="1608679429386">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1537" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1608679429386" />
     <state width="1537" height="270" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608519436195" />
-    <state width="1537" height="270" key="GridCell.Tab.0.center" timestamp="1608519436195">
+    <state width="1537" height="218" key="GridCell.Tab.0.center" timestamp="1608679429386">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1537" height="218" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1608679429386" />
     <state width="1537" height="270" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608519436195" />
-    <state width="1537" height="270" key="GridCell.Tab.0.left" timestamp="1608519436195">
+    <state width="1537" height="218" key="GridCell.Tab.0.left" timestamp="1608679429386">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1537" height="218" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1608679429386" />
     <state width="1537" height="270" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608519436195" />
-    <state width="1537" height="270" key="GridCell.Tab.0.right" timestamp="1608519436195">
+    <state width="1537" height="218" key="GridCell.Tab.0.right" timestamp="1608679429386">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1537" height="218" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1608679429386" />
     <state width="1537" height="270" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608519436195" />
     <state width="1537" height="270" key="GridCell.Tab.1.bottom" timestamp="1608519436195">
       <screen x="0" y="0" width="1536" height="824" />
