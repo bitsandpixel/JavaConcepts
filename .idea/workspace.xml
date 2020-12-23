@@ -21,7 +21,10 @@
   <component name="ChangeListManager">
     <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myjava/multithreading/InterThreadCommunication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/multithreading/InterThreadCommunication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/multithreading/Number.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/multithreading/Number.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myjava/multithreading/README" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/multithreading/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myjava/oops/README" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/oops/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,10 +157,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1608678651317">
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1608691818527">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1608678651317" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1608691818527" />
     <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1608428722041" />
     <state x="551" y="307" width="433" height="216" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1608406596938">
       <screen x="0" y="0" width="1536" height="824" />
@@ -175,45 +178,50 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="524" y="115" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1608407084981" />
-    <state width="1537" height="218" key="GridCell.Tab.0.bottom" timestamp="1608679429386">
+    <state width="1537" height="218" key="GridCell.Tab.0.bottom" timestamp="1608692223141">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1608679429386" />
+    <state width="1537" height="218" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1608692223141" />
     <state width="1537" height="270" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608519436195" />
-    <state width="1537" height="218" key="GridCell.Tab.0.center" timestamp="1608679429386">
+    <state width="1537" height="218" key="GridCell.Tab.0.center" timestamp="1608692223141">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="218" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1608679429386" />
+    <state width="1537" height="218" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1608692223141" />
     <state width="1537" height="270" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608519436195" />
-    <state width="1537" height="218" key="GridCell.Tab.0.left" timestamp="1608679429386">
+    <state width="1537" height="218" key="GridCell.Tab.0.left" timestamp="1608692223141">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="218" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1608679429386" />
+    <state width="1537" height="218" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1608692223141" />
     <state width="1537" height="270" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608519436195" />
-    <state width="1537" height="218" key="GridCell.Tab.0.right" timestamp="1608679429386">
+    <state width="1537" height="218" key="GridCell.Tab.0.right" timestamp="1608692223141">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="218" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1608679429386" />
+    <state width="1537" height="218" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1608692223141" />
     <state width="1537" height="270" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608519436195" />
-    <state width="1537" height="270" key="GridCell.Tab.1.bottom" timestamp="1608519436195">
+    <state width="1537" height="270" key="GridCell.Tab.1.bottom" timestamp="1608686793690">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1537" height="270" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1608686793690" />
     <state width="1537" height="270" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608519436195" />
-    <state width="1537" height="270" key="GridCell.Tab.1.center" timestamp="1608519436195">
+    <state width="1537" height="270" key="GridCell.Tab.1.center" timestamp="1608686793689">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1537" height="270" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1608686793689" />
     <state width="1537" height="270" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1608519436195" />
-    <state width="1537" height="270" key="GridCell.Tab.1.left" timestamp="1608519436195">
+    <state width="1537" height="270" key="GridCell.Tab.1.left" timestamp="1608686793689">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1537" height="270" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1608686793689" />
     <state width="1537" height="270" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1608519436195" />
-    <state width="1537" height="270" key="GridCell.Tab.1.right" timestamp="1608519436195">
+    <state width="1537" height="270" key="GridCell.Tab.1.right" timestamp="1608686793689">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state width="1537" height="270" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1280.680@0.0.1536.824" timestamp="1608686793689" />
     <state width="1537" height="270" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1608519436195" />
-    <state x="525" y="115" key="RollbackChangesDialog" timestamp="1608430000134">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="2358" y="86" key="RollbackChangesDialog" timestamp="1608692403273">
+      <screen x="1920" y="0" width="1280" height="680" />
     </state>
+    <state x="2358" y="86" key="RollbackChangesDialog/0.0.1536.824/1920.0.1280.680@1920.0.1280.680" timestamp="1608692403273" />
     <state x="525" y="115" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1608430000134" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1608416244736">
       <screen x="0" y="0" width="1536" height="824" />
@@ -255,6 +263,11 @@
           <url>jar://$PROJECT_DIR$/../../../../Program Files/AdoptOpenJDK/jdk-13.0.2.8-hotspot/lib/src.zip!/java.base/java/lang/Thread.java</url>
           <line>788</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../../Program Files/AdoptOpenJDK/jdk-13.0.2.8-hotspot/lib/src.zip!/java.base/java/lang/System.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
