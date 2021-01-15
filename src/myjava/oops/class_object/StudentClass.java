@@ -1,36 +1,22 @@
 package myjava.oops.class_object;
 
+import lombok.Data;
+import lombok.NoArgsConstructor;
+import lombok.RequiredArgsConstructor;
+
 /**
  * Example of Class and Object
  *
  * @author Vishnu Kandanelly
  */
+@Data
 //TODO: check the clean code by baeldung to make changes as per the code cleaning strategies in java
 public class StudentClass {
-    private int Id;
+    private int ID;
     private String name;
 
-    public StudentClass() {
-    }
-
-    public StudentClass(int id, String name) {
-        Id = id;
-        this.name = name;
-    }
-
-    public int getId() {
-        return Id;
-    }
-
-    public void setId(int id) {
-        Id = id;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
+    public StudentClass(int ID, String name) {
+        this.ID = ID;
         this.name = name;
     }
 
@@ -45,8 +31,8 @@ public class StudentClass {
     @Override
     public String toString() {
         return "Student{" +
-                "Id=" + Id +
-                ", name='" + name + '\'' +
+                "ID=" + this.getID() +
+                ", name='" + this.getName() + '\'' +
                 '}';
     }
 }
