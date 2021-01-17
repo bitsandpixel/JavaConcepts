@@ -8,7 +8,7 @@ import lombok.NonNull;
 
 /**
  * Example of Class and Object
- *
+ * Added Lombok support to this class
  * @author Vishnu Kandanelly
  */
 @Data
