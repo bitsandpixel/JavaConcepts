@@ -2,7 +2,9 @@ package myjava.oops.class_object;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import lombok.RequiredArgsConstructor;
+import lombok.AllArgsConstructor;
+import lombok.NonNull;
+
 
 /**
  * Example of Class and Object
@@ -10,18 +12,16 @@ import lombok.RequiredArgsConstructor;
  * @author Vishnu Kandanelly
  */
 @Data
+@NoArgsConstructor
+@AllArgsConstructor
 //TODO: check the clean code by baeldung to make changes as per the code cleaning strategies in java
 public class StudentClass {
     private int ID;
     private String name;
 
-    public StudentClass(int ID, String name) {
-        this.ID = ID;
-        this.name = name;
-    }
-
     public static void main(String[] args) {
-        StudentClass student1 = new StudentClass(001, "vishnu");
+        StudentClass student0 = new StudentClass(); /*Lombok has generated a parameterless constructor using @NoArgsConstructor Annotation*/
+        StudentClass student1 = new StudentClass(001, "vishnu"); /*Lombok has created parameterless constructor using @AllArgsConstructor Annotation*/
         StudentClass student2 = new StudentClass(002, "kiran");
 
         System.out.println(student1.toString());
@@ -31,7 +31,7 @@ public class StudentClass {
     @Override
     public String toString() {
         return "Student{" +
-                "ID=" + this.getID() +
+                "ID=" + this.getID() + /*Lombok created parameterless constructor using @NoArgsConstructor Annotation*/
                 ", name='" + this.getName() + '\'' +
                 '}';
     }
