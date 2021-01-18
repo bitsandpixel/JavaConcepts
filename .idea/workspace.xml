@@ -20,6 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/ProjectBuilding/HowToJAR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ProjectBuilding/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/myjava/oops/class_object/StudentClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/oops/class_object/StudentClass.java" afterDir="false" />
     </list>
@@ -38,6 +40,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1ltASF8NIjvPBaa8Om1rRfqii7s" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -165,16 +175,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/myjava/oops/class_object/StudentClass.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/myjava/oops/class_object/StudentClass.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/myjava/multithreading/ThreadDemo.java</url>
           <line>37</line>
