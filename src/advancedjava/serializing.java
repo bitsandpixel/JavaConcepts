@@ -1,7 +1,6 @@
-package corejava;
+package advancedjava;
 
 import java.io.*;
-import java.sql.Savepoint;
 
 /**
  * Simple Serialization in java

@@ -1,4 +1,4 @@
-package myjava.datastructures;
+package myjava.collections;
 
 /**
  * @author Vishnu Kandanelly
