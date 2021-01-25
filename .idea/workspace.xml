@@ -19,13 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/myjava/collections/CollectionDemo.java" afterDir="false" />
+    <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="Added Collections demo and advanced java package">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj.txt" beforeDir="false" afterPath="$PROJECT_DIR$/obj.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/corejava/serializing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedjava/serializing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myjava/datastructures/ArrayListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/collections/ArrayListDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myjava/datastructures/LinkedListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/collections/LinkedListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myjava/collections/CollectionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/collections/CollectionDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,6 +156,14 @@
       <option name="presentableId" value="Default" />
       <updated>1608406014237</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added Collections demo and advanced java package">
+      <created>1611528016763</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611528016763</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,6 +177,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Collections demo and advanced java package" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Collections demo and advanced java package" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

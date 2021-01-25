@@ -1,7 +1,6 @@
 package myjava.collections;
 
-import java.util.ArrayList;
-import java.util.Collection;
+import java.util.*;
 
 /**
  * @author Vishnu Kandanelly
@@ -26,8 +25,27 @@ public class CollectionDemo {
         integerCollection.add(3);
         integerCollection.add(4);
 
-        for (int i : integerCollection) {
-            System.out.println(i);
+        Iterator<Integer> iterator = integerCollection.iterator();
+
+        while (iterator.hasNext()) {
+            System.out.println(iterator.next());
+        }
+//        for (int i : integerCollection) {
+//            System.out.println(i);
+//        }
+
+
+        //Here we would have the access to indexes compare to Collection
+        List<Integer> integerList = new ArrayList<>();
+        integerList.add(2);
+        integerList.add(4);
+        integerList.add(8);
+        integerList.add(2, 6);
+
+        Collections.reverse(integerList);
+
+        for (Integer integer : integerList) {
+            System.out.print(integer + " ");
         }
 
 
