@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="Added Collections demo and advanced java package">
+      <change afterPath="$PROJECT_DIR$/src/myjava/exceptionhandling/ExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myjava/exceptionhandling/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myjava/collections/CollectionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/collections/CollectionDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +72,7 @@
       <recent name="myjava.oops.abstraction" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CollectionDemo">
+  <component name="RunManager" selected="Application.ExceptionDemo">
     <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myjava.collections.ArrayListDemo" />
       <module name="JavaConcepts" />
@@ -98,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterThreadCommunication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myjava.multithreading.InterThreadCommunication" />
+    <configuration name="ExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myjava.exceptionhandling.ExceptionDemo" />
       <module name="JavaConcepts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myjava.multithreading.*" />
+          <option name="PATTERN" value="myjava.exceptionhandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SynchronizationDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myjava.multithreading.SynchronizationDemo" />
+    <configuration name="InterThreadCommunication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myjava.multithreading.InterThreadCommunication" />
       <module name="JavaConcepts" />
       <extension name="coverage">
         <pattern>
@@ -139,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExceptionDemo" />
         <item itemvalue="Application.CollectionDemo" />
         <item itemvalue="Application.serializing" />
         <item itemvalue="Application.ArrayListDemo" />
         <item itemvalue="Application.InterThreadCommunication" />
-        <item itemvalue="Application.SynchronizationDemo" />
       </list>
     </recent_temporary>
   </component>
