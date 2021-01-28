@@ -1,12 +1,27 @@
 # Exception Handling
 
-* [Exception](#exception)
-* [Error](#error)
+* [Exceptions](#exceptions)
+* [Errors](#errors)
 
-## Exception
+## Exceptions
 * Exceptions can be handled
-* Types of Exceptions
-* Checked and Unchecked
+    ### Types of Exceptions
+    * [Checked Exceptions](#checked-exceptions)
+    * [Unchecked Exceptions](#unchecked-exceptions)
 
-## Error
+#### Checked Exceptions
+* IOException
+    *
+* SQLException
+    *
+#### Unchecked Exceptions
+* RuntimeException
+    * Arithmetic Exception
+    * 
+
+
+
+
+
+## Errors
 * Errors cannot be handled.
