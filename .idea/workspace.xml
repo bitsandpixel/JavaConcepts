@@ -20,22 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="Added Collections demo and advanced java package">
-      <change afterPath="$PROJECT_DIR$/src/myjava/collections/ComparableInterfaceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myjava/collections/ComparatorInterfaceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myjava/collections/ComparatorWithCustomTypeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myjava/collections/MapInterfaceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myjava/collections/SetInterfaceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myjava/collections/VectorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myjava/datastructures/BinarySearchTreeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myjava/datastructures/BinaryTreeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myjava/datastructures/GraphDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myjava/datastructures/HashingDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myjava/datastructures/HeapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myjava/datastructures/LinkedListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myjava/datastructures/QueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myjava/datastructures/StackDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myjava/exceptionhandling/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/exceptionhandling/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
