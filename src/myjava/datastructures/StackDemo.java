@@ -34,18 +34,27 @@ public class StackDemo {
     public int size() {
         return top;
     }
+
+    public boolean isEmpty() {
+        return top <= 0;
+    }
 }
 
 class Runner {
     public static void main(String[] args) {
         StackDemo stackDemo = new StackDemo();
+        System.out.println(stackDemo.isEmpty());
         stackDemo.push(15);
         stackDemo.push(8);
         System.out.println("size: " + stackDemo.size());
-        System.out.println(stackDemo.peek());
+        System.out.println("last added element: " + stackDemo.peek());
         stackDemo.push(6);
+        stackDemo.push(7);
 
-        System.out.println(stackDemo.pop());
+        System.out.println("removed: " + stackDemo.pop());
+        System.out.println("size: " + stackDemo.size());
+        System.out.println(stackDemo.isEmpty());
+
 
         stackDemo.show();
     }
