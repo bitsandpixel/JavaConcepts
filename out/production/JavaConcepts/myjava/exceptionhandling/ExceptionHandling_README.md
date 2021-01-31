@@ -17,7 +17,7 @@
 #### Unchecked Exceptions
 * RuntimeException
     * Arithmetic Exception
-    * 
+    * ArrayIndexOutOfBoundsException
 
 
 
