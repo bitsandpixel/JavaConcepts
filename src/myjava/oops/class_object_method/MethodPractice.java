@@ -14,12 +14,12 @@ public class MethodPractice {
 
 
     /*
-    datatypes -
+    data types -
     question 0) difference between heap memory and stack memory
-    primitive datatypes  - byte, short, int, char, long, float, double
+    primitive data types  - byte, short, int, char, long, float, double
     question 1):
     primitive - it stores value
-    reference datatypes - String, arrays, arrayilst, classes, lists
+    reference data types - String, arrays, arraylist, classes, lists
     reference - memory location (address or reference)
     question 2):
 
@@ -46,7 +46,7 @@ public class MethodPractice {
 
         MethodPractice methodPractice = new MethodPractice();
         System.out.println(new MethodPractice().x);
-        System.out.println(new MethodCalling().staticIntVariable);
+        System.out.println(new MethodCalling().staticIntVariable);//TODO: WAS IST DAS?
 
 
         //question 3)

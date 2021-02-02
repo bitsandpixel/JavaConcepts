@@ -20,12 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="Added Collections demo and advanced java package">
-      <change afterPath="$PROJECT_DIR$/src/myjava/languagebasics/controlflowstatements/forLoopDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myjava/oops/class_object_method/ChildMethodCalling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myjava/oops/class_object_method/MethodCalling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myjava/oops/class_object_method/MethodPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myjava/oops/misc/RecursionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myjava/oops/misc/recursion/Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myjava/oops/misc/recursion/PositiveNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myjava/oops/class_object/StudentClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/oops/class_object_method/StudentClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myjava/oops/class_object_method/MethodPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/oops/class_object_method/MethodPractice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
