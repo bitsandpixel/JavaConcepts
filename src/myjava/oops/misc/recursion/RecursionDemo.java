@@ -1,4 +1,4 @@
-package myjava.oops.misc;
+package myjava.oops.misc.recursion;
 
 /**
  * @author Vishnu Kandanelly
