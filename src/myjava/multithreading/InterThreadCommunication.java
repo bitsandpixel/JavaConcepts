@@ -9,6 +9,7 @@ public class InterThreadCommunication {
         Number number = new Number();
         new Producer(number);
         new Consumer(number);
+        String n = "";
 
     }
 

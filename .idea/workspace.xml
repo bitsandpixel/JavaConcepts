@@ -20,14 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="Added Collections demo and advanced java package">
-      <change afterPath="$PROJECT_DIR$/src/myjava/oops/abstraction/Abstraction_README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myjava/oops/class_object_method/Class_Object_Method_README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myjava/oops/encapsulation/Encapsulation_README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myjava/oops/inheritance/Inheritance_README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myjava/oops/misc/OOPS_Misc_README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myjava/oops/polymorphism/Polymorphism_README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedjava/java5features/java5features_README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedjava/java7features/java7features_README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedjava/java8features/java8features_README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedjava/java9features/java9features_README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myjava/languagebasics/string/String_README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myjava/oops/misc/RecursionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/oops/misc/recursion/RecursionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myjava/multithreading/InterThreadCommunication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/multithreading/InterThreadCommunication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
