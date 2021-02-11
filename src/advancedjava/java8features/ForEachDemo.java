@@ -53,7 +53,7 @@ public class ForEachDemo {
         System.out.println("Looping through the list using an internal ForEach loop introduced in Java 8");
         integerList.forEach(integer -> System.out.print(integer+" "));
         /*
-        The advantage of using collection, since this is an internal part of the collection, it would be much faster than the external loop. 
+        The advantage of using collection, since this is an internal part of the collection, it would be much faster than the external loop.
          */
     }
 }

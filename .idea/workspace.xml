@@ -20,15 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="Added Collections demo and advanced java package">
-      <change afterPath="$PROJECT_DIR$/src/advancedjava/java8features/ForEachDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaConcepts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaConcepts.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/multithreading/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/multithreading/Consumer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/multithreading/InterThreadCommunication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/multithreading/InterThreadCommunication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/multithreading/Number.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/multithreading/Number.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/multithreading/Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/multithreading/Producer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object/StudentClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myjava/oops/class_object_method/StudentClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/oops/class_object_method/StudentClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/ForEachDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/ForEachDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressionDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/advancedjava/java8features/ForEachDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedjava/java8features/ForEachDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/advancedjava/java8features/LambdaExpressionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedjava/java8features/LambdaExpressionDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +64,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/connectors/mapi-real.de" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -79,13 +75,13 @@
       <recent name="myjava.oops.abstraction" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ForEachDemo">
-    <configuration name="ExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myjava.exceptionhandling.ExceptionDemo" />
+  <component name="RunManager" selected="Application.LambdaExpressionDemo">
+    <configuration name="ForEachDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advancedjava.java8features.ForEachDemo" />
       <module name="JavaConcepts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myjava.exceptionhandling.*" />
+          <option name="PATTERN" value="advancedjava.java8features.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForEachDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advancedjava.java8features.ForEachDemo" />
+    <configuration name="LambdaExpressionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advancedjava.java8features.LambdaExpressionDemo" />
       <module name="JavaConcepts" />
       <extension name="coverage">
         <pattern>
@@ -147,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LambdaExpressionDemo" />
         <item itemvalue="Application.ForEachDemo" />
         <item itemvalue="Application.StudentClass" />
         <item itemvalue="Application.Runner" />
         <item itemvalue="Application.UserDefinedExceptionDemo" />
-        <item itemvalue="Application.ExceptionDemo" />
       </list>
     </recent_temporary>
   </component>
