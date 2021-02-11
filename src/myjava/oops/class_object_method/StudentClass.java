@@ -29,10 +29,10 @@ public class StudentClass {
 
     public static void main(String[] args) {
         StudentClass student0 = new StudentClass(); /*Lombok has generated a parameterless constructor using @NoArgsConstructor Annotation*/
-        StudentClass student1 = new StudentClass(001, "vishnu"); /*Lombok has created parameterless constructor using @AllArgsConstructor Annotation*/
-        StudentClass student2 = new StudentClass(002, "kiran");
+        StudentClass student1 = new StudentClass(1, "vishnu"); /*Lombok has created parameterless constructor using @AllArgsConstructor Annotation*/
+        StudentClass student2 = new StudentClass(2, "kiran");
         /*Using the concept of anonymous class*/
-        System.out.println(new StudentClass(003, "Viski").toString());
+        System.out.println(new StudentClass(3, "Viski").toString());
 
         System.out.println(student1.toString());
         System.out.println(student2.toString());
