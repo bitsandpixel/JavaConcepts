@@ -1,2 +1,4 @@
-package advancedjava.java8features;public class OptionalClassDemo {
+package advancedjava.java8features;
+
+public class OptionalClassDemo {
 }

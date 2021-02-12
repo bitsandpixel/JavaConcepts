@@ -9,7 +9,7 @@ package advancedjava.java8features;
  * It saves a lot of code. In case of lambda expression, we don't need to define the method again for providing
  * the implementation. Here, we just write the implementation code.
  *
- * The need of writing the obvious boiler plate code can be eliminated by using lambda expressions. 
+ * The need of writing the obvious boiler plate code can be eliminated by using lambda expressions.
  *
  * Java lambda expression is treated as a function, so compiler does not create .class file.
  */

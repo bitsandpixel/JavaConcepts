@@ -20,11 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="Added Collections demo and advanced java package">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedjava/java8features/OptionalClassDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myjava/oops/misc/CallByValueDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/ForEachDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/ForEachDemo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressionDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/MethodReferenceDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/MethodReferenceDemo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/advancedjava/java8features/ForEachDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedjava/java8features/ForEachDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/advancedjava/java8features/LambdaExpressionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedjava/java8features/LambdaExpressionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/advancedjava/java8features/MethodReferenceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedjava/java8features/MethodReferenceDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myjava/oops/class_object_method/Class_Object_Method_README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/oops/class_object_method/Class_Object_Method_README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +81,20 @@
       <recent name="myjava.oops.abstraction" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LambdaExpressionDemo">
+  <component name="RunManager" selected="Application.MethodReferenceDemo">
+    <configuration name="CallByValueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myjava.oops.misc.CallByValueDemo" />
+      <module name="JavaConcepts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myjava.oops.misc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ForEachDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="advancedjava.java8features.ForEachDemo" />
       <module name="JavaConcepts" />
@@ -102,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myjava.datastructures.Runner" />
+    <configuration name="MethodReferenceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advancedjava.java8features.MethodReferenceDemo" />
       <module name="JavaConcepts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myjava.datastructures.*" />
+          <option name="PATTERN" value="advancedjava.java8features.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,26 +147,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserDefinedExceptionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myjava.exceptionhandling.UserDefinedExceptionDemo" />
-      <module name="JavaConcepts" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="myjava.exceptionhandling.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LambdaExpressionDemo" />
+        <item itemvalue="Application.MethodReferenceDemo" />
+        <item itemvalue="Application.CallByValueDemo" />
         <item itemvalue="Application.ForEachDemo" />
+        <item itemvalue="Application.LambdaExpressionDemo" />
         <item itemvalue="Application.StudentClass" />
-        <item itemvalue="Application.Runner" />
-        <item itemvalue="Application.UserDefinedExceptionDemo" />
       </list>
     </recent_temporary>
   </component>
