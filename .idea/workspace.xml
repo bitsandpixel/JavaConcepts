@@ -20,17 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="Added Collections demo and advanced java package">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedjava/java8features/OptionalClassDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myjava/oops/misc/CallByValueDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/ForEachDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/ForEachDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressionDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/MethodReferenceDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/MethodReferenceDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advancedjava/java8features/ForEachDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedjava/java8features/ForEachDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advancedjava/java8features/LambdaExpressionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedjava/java8features/LambdaExpressionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/advancedjava/java8features/MethodReferenceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedjava/java8features/MethodReferenceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myjava/oops/class_object_method/Class_Object_Method_README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/oops/class_object_method/Class_Object_Method_README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myjava/collections/ArrayListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/collections/ArrayListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myjava/collections/Collections_README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/collections/Collections_README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myjava/datastructures/LinkedListDemo.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
