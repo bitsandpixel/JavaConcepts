@@ -1,4 +1,4 @@
-package advancedjava.java8features;
+package advancedjava.java8features.LambdaExpressions;
 
 /**
  * Lambda expression is an important feature of java introduced in JAVA SE 8.
