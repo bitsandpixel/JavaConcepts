@@ -20,12 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="Added Collections demo and advanced java package">
+      <change afterPath="$PROJECT_DIR$/src/advancedjava/serialisation/JavaObjToXML.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advancedjava/java8features/MethodReferenceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedjava/java8features/MethodReferenceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myjava/collections/ArrayListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/collections/ArrayListDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myjava/collections/Collections_README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/collections/Collections_README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myjava/datastructures/LinkedListDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/advancedjava/serializing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedjava/serialisation/serializing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,11 +63,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/connectors/mapi-real.de" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -211,7 +209,7 @@
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/advancedjava/serializing.java</url>
+          <url>file://$PROJECT_DIR$/src/advancedjava/serialisation/serializing.java</url>
           <line>11</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>

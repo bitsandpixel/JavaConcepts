@@ -1,4 +1,4 @@
-package advancedjava;
+package advancedjava.serialisation;
 
 import java.io.*;
 
