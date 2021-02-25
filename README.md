@@ -2,27 +2,51 @@
 
 * [General Information](#general-information)
 * [When to use?](#when-to-use?)
+* [Random Notes](#random-notes)
 * [Referred Links](#referred-links)
 
 ## General Information
+
 ```
  A Project where I try to explain as much as I can about Java(Personal storage of concepts for myself and anyone who finds it)
 ```
 
-* This is a project I am creating to revise java concepts and to refer whenever I needed to brush up any concept of java in the future. 
-    If it helps anyone else and If anyone likes to contribute, I gladly welcome them.
-    Note: I am starting to shape the project based on below mentioned links, at least in the beginning stage of the project, I would always add the links I have referred. 
+* This is a project I am creating to revise java concepts and to refer whenever I needed to brush up any concept of java
+  in the future. If it helps anyone else and If anyone likes to contribute, I gladly welcome them. Note: I am starting
+  to shape the project based on below mentioned links, at least in the beginning stage of the project, I would always
+  add the links I have referred.
 
-* I have divided the project into two main packages which themselves have child packages based on the different areas covered in the project.
+* I have divided the project into two main packages which themselves have child packages based on the different areas
+  covered in the project.
     * myjava
     * advancedjava
 
 ## When to use?
+
 ```
 Here I would try to document which concept of java would be suitable for the real life scenario.
 ```
-* 
 
+*
+
+## Random Notes
+
+```
+Here I would document what have I learned, what I need to learn and which concepts to include here,
+any information I could not decide yet to segregate would first come here. 
+like the title says, Random stuff.
+```
+
+* What is a binding framework?
+* How Maven Actually works?
+* 1L - add in basic concepts
+* resolve java lang.lang.NoClassDefFoundError(JavaObjToXML.java)
+  * work on TODO here.
+* https://gist.github.com/asabaylus/3071099
+* is codota useful?
+* learn Transformer class
+* @RequiredArgsConstructor(onConstructor_ = @Inject)
+* understand the difference between REST and SOAP
 
 ## Referred Links:
 

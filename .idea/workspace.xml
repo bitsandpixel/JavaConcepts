@@ -20,20 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="Added Collections demo and advanced java package">
-      <change afterPath="$PROJECT_DIR$/src/advancedjava/serialisation/JavaObjToXML.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/src/advancedjava/serializing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedjava/serialisation/serializing.java" afterDir="false" />
-=======
-<<<<<<< HEAD
-=======
       <change beforePath="$PROJECT_DIR$/src/advancedjava/java8features/MethodReferenceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedjava/java8features/MethodReferenceDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/advancedjava/serialisation/JavaObjToXML.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedjava/serialisation/JavaObjToXML.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/advancedjava/serializing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedjava/serialisation/serializing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/myjava/collections/ArrayListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/collections/ArrayListDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/myjava/collections/Collections_README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/collections/Collections_README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/myjava/datastructures/LinkedListDemo.java" beforeDir="false" />
->>>>>>> 05e65b6e290b50ff9940d627d0ff8ca01f0116ac
->>>>>>> f0d3ff0d6fb45084f69d109de620e035870ffe87
+      <change beforePath="$PROJECT_DIR$/src/myjava/oops/class_object_method/StudentClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/oops/class_object_method/StudentClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +79,7 @@
       <recent name="myjava.oops.abstraction" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MethodReferenceDemo">
+  <component name="RunManager" selected="Application.JavaObjToXML">
     <configuration name="CallByValueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myjava.oops.misc.CallByValueDemo" />
       <module name="JavaConcepts" />
@@ -104,6 +99,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="advancedjava.java8features.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaObjToXML" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advancedjava.serialisation.JavaObjToXML" />
+      <module name="JavaConcepts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="advancedjava.serialisation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,26 +145,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myjava.oops.class_object_method.StudentClass" />
-      <module name="JavaConcepts" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="myjava.oops.class_object_method.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaObjToXML" />
         <item itemvalue="Application.MethodReferenceDemo" />
         <item itemvalue="Application.CallByValueDemo" />
         <item itemvalue="Application.ForEachDemo" />
         <item itemvalue="Application.LambdaExpressionDemo" />
-        <item itemvalue="Application.StudentClass" />
       </list>
     </recent_temporary>
   </component>
