@@ -20,15 +20,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="Added Collections demo and advanced java package">
+      <change afterPath="$PROJECT_DIR$/src/myjava/oops/class_object_method/InnerClassDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advancedjava/java8features/MethodReferenceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedjava/java8features/MethodReferenceDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java5features/JavaAnnotationsDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/Greeting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/HelloworldGreeting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/LambdaExpressionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/PassingBehaviourInOOP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/MethodReferenceDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/serialisation/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/serialisation/JavaObjToXML.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/serialisation/Save.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/serialisation/serializing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/languagebasics/string/StringManipulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/StudentClass.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/advancedjava/serialisation/JavaObjToXML.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedjava/serialisation/JavaObjToXML.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advancedjava/serializing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedjava/serialisation/serializing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myjava/collections/ArrayListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/collections/ArrayListDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myjava/collections/Collections_README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/collections/Collections_README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myjava/datastructures/LinkedListDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myjava/oops/class_object_method/StudentClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/oops/class_object_method/StudentClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +76,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/connectors/mapi-real.de" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
@@ -79,7 +86,7 @@
       <recent name="myjava.oops.abstraction" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MethodReferenceDemo">
+  <component name="RunManager" selected="Application.InnerClassDemo">
     <configuration name="CallByValueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myjava.oops.misc.CallByValueDemo" />
       <module name="JavaConcepts" />
@@ -99,6 +106,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="advancedjava.java8features.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InnerClassDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myjava.oops.class_object_method.InnerClassDemo" />
+      <module name="JavaConcepts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myjava.oops.class_object_method.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,26 +152,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myjava.oops.class_object_method.StudentClass" />
-      <module name="JavaConcepts" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="myjava.oops.class_object_method.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InnerClassDemo" />
         <item itemvalue="Application.MethodReferenceDemo" />
         <item itemvalue="Application.CallByValueDemo" />
         <item itemvalue="Application.ForEachDemo" />
         <item itemvalue="Application.LambdaExpressionDemo" />
-        <item itemvalue="Application.StudentClass" />
       </list>
     </recent_temporary>
   </component>
