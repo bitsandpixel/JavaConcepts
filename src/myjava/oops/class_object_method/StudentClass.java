@@ -17,7 +17,6 @@ import lombok.NonNull;
 @AllArgsConstructor
 //TODO: check the clean code by baeldung to make changes as per the code cleaning strategies in java
 public class StudentClass {
-    @NonNull
     private int ID;
     @NonNull
     private String name;
