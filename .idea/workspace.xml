@@ -22,8 +22,6 @@
     <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="Added Collections demo and advanced java package">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-<<<<<<< HEAD
-=======
       <change beforePath="$PROJECT_DIR$/src/advancedjava/java8features/MethodReferenceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedjava/java8features/MethodReferenceDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/advancedjava/serialisation/JavaObjToXML.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedjava/serialisation/JavaObjToXML.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/advancedjava/serializing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedjava/serialisation/serializing.java" afterDir="false" />
