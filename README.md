@@ -8,7 +8,11 @@
 ## General Information
 
 ```
- A Project where I try to explain as much as I can about Java(Personal storage of concepts for myself and anyone who finds it)
+ A Project where I try to explain as much as I can about Java(Personal storage of concepts for myself and 
+ anyone who finds it)
+ 
+ Each of the "Demo code" I have provided is at an elementary level along with developer comments and an explanation 
+ of concept either in the class file or in a README file of a related package.
 ```
 
 * This is a project I am creating to revise java concepts and to refer whenever I needed to brush up any concept of java

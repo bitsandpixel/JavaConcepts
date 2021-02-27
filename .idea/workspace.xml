@@ -20,22 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="Added Collections demo and advanced java package">
-      <change afterPath="$PROJECT_DIR$/src/myjava/oops/class_object_method/InnerClassDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/OuterClass$InnerClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/OuterClass$StaticInnerClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/OuterClass.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java5features/JavaAnnotationsDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/Greeting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/Hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/HelloworldGreeting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/LambdaExpressionDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/PassingBehaviourInOOP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/MethodReferenceDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/serialisation/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/serialisation/JavaObjToXML.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/serialisation/Save.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/serialisation/serializing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/languagebasics/string/StringManipulation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/StudentClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advancedjava/serialisation/JavaObjToXML.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedjava/serialisation/JavaObjToXML.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/InnerClassDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/InnerClassDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/Outer$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/Outer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myjava/oops/class_object_method/Class_Object_Method_README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/oops/class_object_method/Class_Object_Method_README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myjava/oops/class_object_method/InnerClassDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/oops/class_object_method/InnerClassDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
