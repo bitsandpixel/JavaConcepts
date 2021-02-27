@@ -18,8 +18,8 @@ public class ChildMethodCalling extends MethodCalling {
 
     public static int useAddition(int a, int b) {
         ChildMethodCalling a1 = new ChildMethodCalling();
-        int staticIntVariableinChild = ChildMethodCalling.staticIntVariable;
-        int staticIntVariableinChild2 = new ChildMethodCalling().staticIntVariable;
+        int staticIntVariableInChild = ChildMethodCalling.staticIntVariable;
+        int staticIntVariableInChild2 = new ChildMethodCalling().staticIntVariable;
         int sum = a1.addition(2, 5);
         String shailu = sayHello();
         String vishnu = sayName();

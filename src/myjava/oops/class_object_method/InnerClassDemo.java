@@ -10,15 +10,15 @@ package myjava.oops.class_object_method;
  */
 public class InnerClassDemo {
     public static void main(String[] args) {
-        OuterClass outerClass = new OuterClass();
+        OuterClass outerClassReferenceVariable = new OuterClass();
         OuterClass.number = 11;
-        outerClass.name = "Vishnu";
-        outerClass.greet();
-
+        outerClassReferenceVariable.name = "Kiran";
+        outerClassReferenceVariable.greet();
+        new OuterClass().greet();
         /*
          * Non static inner class object will be created with the help of an instance of an outer class
          * */
-        OuterClass.InnerClass innerClass = outerClass.new InnerClass();
+        OuterClass.InnerClass innerClass = outerClassReferenceVariable.new InnerClass();
         innerClass.bye();
 
         /*
@@ -38,7 +38,7 @@ public class InnerClassDemo {
 }
 
 class OuterClass {
-    String name;
+    String name = "vishnu";
     static int number;
 
     public void greet() {
