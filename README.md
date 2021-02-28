@@ -51,6 +51,7 @@ like the title says, Random stuff.
 * learn Transformer class
 * @RequiredArgsConstructor(onConstructor_ = @Inject)
 * understand the difference between REST and SOAP
+* REST with json and xml
 
 ## Referred Links:
 
