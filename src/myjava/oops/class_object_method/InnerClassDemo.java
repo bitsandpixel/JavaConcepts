@@ -34,6 +34,34 @@ public class InnerClassDemo {
         System.out.println("square of the given number " + OuterClass.number + " is: " + staticInnerClass.squareOfTheNumber());
 
 
+        System.out.println("------------------- Example of an anonymous inner class ----------------");
+
+//        OuterInterface outerInterface = new ImplOuterInterface();
+//        //or
+//        ImplOuterInterface implOuterInterface = new ImplOuterInterface();
+//
+//        outerInterface.perform(); //which would print "performing action"
+//        implOuterInterface.perform(); //which would print "performing action"
+
+        /* otherwise instead of creating a implementation class you could create an "ANONYMOUS INNER CLASS" to perform
+         * the same action
+         *
+         * IMPORTANT NOTE: when we use anonymous inner class with/without the lambda expression
+         * there is no need of creating an implementation class for the interface as we are implementing the method inside
+         * of anonymous class
+         */
+
+        OuterInterface outerInterfaceAnonymous = () -> System.out.println("Performing the action...");
+    /*
+    * you could use lambda expression here.
+    *
+    * OuterInterface outerInterfaceAnonymous = () -> System.out.println("Performing the action...");
+    * */
+
+        outerInterfaceAnonymous.perform();
+
+
+
     }
 }
 
@@ -82,3 +110,15 @@ class OuterClass {
         }
     }
 }
+
+interface OuterInterface {
+    void perform();
+}
+
+//class ImplOuterInterface implements OuterInterface {
+//
+//    @Override
+//    public void perform() {
+//        System.out.println("performing the actions");
+//    }
+//}
