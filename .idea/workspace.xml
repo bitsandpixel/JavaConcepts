@@ -21,11 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="Added Collections demo and advanced java package">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/InnerClassDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/InnerClassDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/OuterClass$InnerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/OuterClass$InnerClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/OuterClass$StaticInnerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/OuterClass$StaticInnerClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/OuterClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/OuterClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advancedjava/java8features/LambdaExpressions/PassingBehaviourInOOP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedjava/java8features/LambdaExpressions/PassingBehaviourInOOP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/advancedjava/java8features/LambdaExpressions/LambdaBasics_README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedjava/java8features/LambdaExpressions/LambdaBasics_README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/myjava/oops/class_object_method/InnerClassDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/oops/class_object_method/InnerClassDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

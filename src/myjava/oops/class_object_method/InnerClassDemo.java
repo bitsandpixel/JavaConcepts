@@ -49,17 +49,32 @@ public class InnerClassDemo {
          * IMPORTANT NOTE: when we use anonymous inner class with/without the lambda expression
          * there is no need of creating an implementation class for the interface as we are implementing the method inside
          * of anonymous class
+         *
+         * even though both anonymous inner class and lambda expression looks similar syntactically and execution wise,
+         * there is a contrast between both of them, there are things that inner class does different
+         * which would be added later
+         *
+         * //TODO: what is the contrast??
+         *
          */
 
-        OuterInterface outerInterfaceAnonymous = () -> System.out.println("Performing the action...");
-    /*
-    * you could use lambda expression here.
-    *
-    * OuterInterface outerInterfaceAnonymous = () -> System.out.println("Performing the action...");
-    * */
+        OuterInterface outerInterfaceAnonymous = new OuterInterface() {
+            @Override
+            public void perform() {
+                System.out.println("Performing the action...");
+            }
+        };
+
+        /*
+         * you could use lambda expression here.
+         *
+         */
+
+        OuterInterface outerInterfacelambdaExpression = () -> System.out.println("Performing the action...");
+
 
         outerInterfaceAnonymous.perform();
-
+        outerInterfacelambdaExpression.perform();
 
 
     }
