@@ -16,4 +16,8 @@
         
     
 ### What is Type Inference?
+    * With Lambda expressions Java compiler doing something called
+    "Type Inference".
+    (Definition of Type Inference: An inference is an idea or conclusion that's drawn from evidence and reasoning.
+    An inference is an educated guess.)
     * 
