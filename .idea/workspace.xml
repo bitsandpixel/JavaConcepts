@@ -20,16 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="Added Collections demo and advanced java package">
-      <change afterPath="$PROJECT_DIR$/src/advancedjava/java8features/LambdaExpressions/TypeInferenceDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/LambdaBasics_README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/LambdaBasics_README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/ImplOuterInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/InnerClassDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/InnerClassDemo$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/InnerClassDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/InnerClassDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/OuterClass$InnerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/OuterClass$InnerClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/OuterClass$StaticInnerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/OuterClass$StaticInnerClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/OuterClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/OuterClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advancedjava/java8features/LambdaExpressions/LambdaBasics_README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedjava/java8features/LambdaExpressions/LambdaBasics_README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/advancedjava/java8features/LambdaExpressions/PassingBehaviourInOOP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedjava/java8features/LambdaExpressions/PassingBehaviourInOOP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/advancedjava/java8features/LambdaExpressions/TypeInferenceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedjava/java8features/LambdaExpressions/TypeInferenceDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,26 +75,13 @@
       <recent name="myjava.oops.abstraction" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TypeInferenceDemo">
+  <component name="RunManager" selected="Application.PassingBehaviourInOOP">
     <configuration name="CallByValueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myjava.oops.misc.CallByValueDemo" />
       <module name="JavaConcepts" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="myjava.oops.misc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ForEachDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advancedjava.java8features.ForEachDemo" />
-      <module name="JavaConcepts" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="advancedjava.java8features.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,6 +115,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PassingBehaviourInOOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advancedjava.java8features.LambdaExpressions.PassingBehaviourInOOP" />
+      <module name="JavaConcepts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="advancedjava.java8features.LambdaExpressions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TypeInferenceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="advancedjava.java8features.LambdaExpressions.TypeInferenceDemo" />
       <module name="JavaConcepts" />
@@ -148,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PassingBehaviourInOOP" />
         <item itemvalue="Application.TypeInferenceDemo" />
         <item itemvalue="Application.InnerClassDemo" />
         <item itemvalue="Application.MethodReferenceDemo" />
         <item itemvalue="Application.CallByValueDemo" />
-        <item itemvalue="Application.ForEachDemo" />
       </list>
     </recent_temporary>
   </component>

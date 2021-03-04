@@ -52,6 +52,7 @@ like the title says, Random stuff.
 * @RequiredArgsConstructor(onConstructor_ = @Inject)
 * understand the difference between REST and SOAP
 * REST with json and xml
+* When Lambda can be replaced with method reference?
 
 ## Referred Links:
 

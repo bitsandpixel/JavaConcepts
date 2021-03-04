@@ -8,6 +8,13 @@ public class PassingBehaviourInOOP {
         HelloWorldGreeting helloworldGreeting = new HelloWorldGreeting();
         /*Using Anonymous class*/
         new PassingBehaviourInOOP().greet(helloworldGreeting);
+
+        /*
+        Type Inference example
+
+        Greeting helloWorldGreeting = () -> System.out.println("Hello World");
+        helloWorldGreeting.perform();
+         */
     }
 
     /**
