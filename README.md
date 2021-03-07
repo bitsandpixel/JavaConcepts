@@ -53,6 +53,11 @@ like the title says, Random stuff.
 * understand the difference between REST and SOAP
 * REST with json and xml
 * When Lambda can be replaced with method reference?
+* advantages or arrays compared to collections?
+* arraylist vs linkedlist
+* deep analysis of generics
+* Optional class of Java
+* jsp,hibernate,spring
 
 ## Referred Links:
 
