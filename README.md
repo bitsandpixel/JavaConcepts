@@ -41,6 +41,7 @@ any information I could not decide yet to segregate would first come here.
 like the title says, Random stuff.
 ```
 
+* Constructor,static,this, aggregation, add remaining polymorphism topics
 * What is a binding framework?
 * How Maven Actually works?
 * 1L - add in basic concepts
