@@ -67,4 +67,4 @@ like the title says, Random stuff.
 3. https://www.youtube.com/watch?v=8cm1x4bC610&list=PLsyeobzWxl7pSqMzPF_SlvQ0IdcGA-XI2
 4. https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa9YGfyhyW2CqdtW9RtY-I3
 5. https://howtodoinjava.com/jaxb/write-object-to-xml/
-6. https://www.baeldung.com/jaxb
+6. https://www.baeldung.com
