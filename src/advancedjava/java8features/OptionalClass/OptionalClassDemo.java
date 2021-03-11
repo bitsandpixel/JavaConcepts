@@ -6,7 +6,7 @@ import java.util.Optional;
  * Tired of using NullPointerExceptions, use "Optional" class
  * @URL https://www.oracle.com/technical-resources/articles/java/java8-optional.html
  * @URL https://www.baeldung.com/java-optional
- * 
+ *
  * @author Vishnu Kandanelly
  */
 public class OptionalClassDemo {
