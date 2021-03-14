@@ -4,3 +4,6 @@
 [submodule "Hello_World"]
 	path = Hello_World
 	url = https://github.com/vishnukiran51/Hello_World
+[submodule "StudentTask"]
+	path = StudentTask
+	url = https://github.com/vishnukiran51/StudentTask
