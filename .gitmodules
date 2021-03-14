@@ -1,3 +1,6 @@
 [submodule "JavaServerPages"]
 	path = JavaServerPages
 	url = https://github.com/vishnukiran51/JavaServerPages
+[submodule "Hello_World"]
+	path = Hello_World
+	url = https://github.com/vishnukiran51/Hello_World
