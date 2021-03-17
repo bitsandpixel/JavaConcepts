@@ -25,13 +25,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="Added Collections demo and advanced java package">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/JavaConcepts_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jsp/TestFileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedjava/java8features/Streams/StremFilterDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/LambdaBasics_README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/LambdaBasics_README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/PassingBehaviourInOOP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/PassingBehaviourInOOP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/TypeInferenceDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/TypeInferenceDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advancedjava/java8features/OptionalClass/OptionalClassDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedjava/java8features/OptionalClass/OptionalClassDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +69,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts/JavaConcepts_jar/JavaConcepts.jar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -84,7 +80,7 @@
       <recent name="myjava.oops.abstraction" />
     </key>
   </component>
-  <component name="RunManager" selected="JAR Application.TestFileDemoJar">
+  <component name="RunManager" selected="Application.StremFilterDemo">
     <configuration name="InnerClassDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myjava.oops.class_object_method.InnerClassDemo" />
       <module name="JavaConcepts" />
@@ -98,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodReferenceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advancedjava.java8features.MethodReferenceDemo" />
+    <configuration name="PassingBehaviourInOOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advancedjava.java8features.LambdaExpressions.PassingBehaviourInOOP" />
       <module name="JavaConcepts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advancedjava.java8features.*" />
+          <option name="PATTERN" value="advancedjava.java8features.LambdaExpressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PassingBehaviourInOOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advancedjava.java8features.LambdaExpressions.PassingBehaviourInOOP" />
+    <configuration name="StremFilterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advancedjava.java8features.Streams.StremFilterDemo" />
       <module name="JavaConcepts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advancedjava.java8features.LambdaExpressions.*" />
+          <option name="PATTERN" value="advancedjava.java8features.Streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,19 +165,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.InnerClassDemo" />
-      <item itemvalue="Application.MethodReferenceDemo" />
       <item itemvalue="Application.PassingBehaviourInOOP" />
       <item itemvalue="Application.TestFileDemo" />
       <item itemvalue="Application.TypeInferenceDemo" />
       <item itemvalue="JAR Application.TestFileDemoJar" />
+      <item itemvalue="Application.StremFilterDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StremFilterDemo" />
         <item itemvalue="Application.TestFileDemo" />
         <item itemvalue="Application.PassingBehaviourInOOP" />
         <item itemvalue="Application.TypeInferenceDemo" />
         <item itemvalue="Application.InnerClassDemo" />
-        <item itemvalue="Application.MethodReferenceDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +189,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608406014237</updated>
-      <workItem from="1615470603417" duration="2848000" />
+      <workItem from="1615470603417" duration="3798000" />
+      <workItem from="1615589198580" duration="3368000" />
+      <workItem from="1615746306000" duration="1021000" />
+      <workItem from="1615759335485" duration="26000" />
+      <workItem from="1616021050960" duration="566000" />
     </task>
     <task id="LOCAL-00001" summary="Added Collections demo and advanced java package">
       <created>1611528016763</created>
