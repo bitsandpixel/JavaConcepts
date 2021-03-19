@@ -7,3 +7,6 @@
 [submodule "StudentTask"]
 	path = StudentTask
 	url = https://github.com/vishnukiran51/StudentTask
+[submodule "JavaFXmlPlayground"]
+	path = JavaFXmlPlayground
+	url = https://github.com/vishnukiran51/JavaFXmlPlayground

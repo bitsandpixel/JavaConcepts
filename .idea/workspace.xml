@@ -25,9 +25,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="Added Collections demo and advanced java package">
-      <change afterPath="$PROJECT_DIR$/src/advancedjava/java8features/Streams/StremFilterDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaConcepts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaConcepts.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,17 +146,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestFileDemoJar" type="JarApplication">
       <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/JavaConcepts_jar/JavaConcepts.jar" />
       <option name="WORKING_DIRECTORY" value="C:\Users\Vishnu Kiran\Desktop\Machine\JavaConcepts" />
@@ -168,8 +157,8 @@
       <item itemvalue="Application.PassingBehaviourInOOP" />
       <item itemvalue="Application.TestFileDemo" />
       <item itemvalue="Application.TypeInferenceDemo" />
-      <item itemvalue="JAR Application.TestFileDemoJar" />
       <item itemvalue="Application.StremFilterDemo" />
+      <item itemvalue="JAR Application.TestFileDemoJar" />
     </list>
     <recent_temporary>
       <list>
@@ -193,7 +182,8 @@
       <workItem from="1615589198580" duration="3368000" />
       <workItem from="1615746306000" duration="1021000" />
       <workItem from="1615759335485" duration="26000" />
-      <workItem from="1616021050960" duration="566000" />
+      <workItem from="1616021050960" duration="1164000" />
+      <workItem from="1616170989053" duration="610000" />
     </task>
     <task id="LOCAL-00001" summary="Added Collections demo and advanced java package">
       <created>1611528016763</created>
