@@ -10,3 +10,6 @@
 [submodule "JavaFXmlPlayground"]
 	path = JavaFXmlPlayground
 	url = https://github.com/vishnukiran51/JavaFXmlPlayground
+[submodule "MavenPlayground"]
+	path = MavenPlayground
+	url = https://github.com/vishnukiran51/MavenPlayground
