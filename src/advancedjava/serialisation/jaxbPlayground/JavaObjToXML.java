@@ -1,9 +1,8 @@
-package advancedjava.serialisation;
+package advancedjava.serialisation.jaxbPlayground;
 
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
 import javax.xml.bind.Marshaller;
-import javax.xml.bind.MarshalException;
 import javax.xml.bind.annotation.*;
 import javax.xml.transform.stream.StreamResult;
 

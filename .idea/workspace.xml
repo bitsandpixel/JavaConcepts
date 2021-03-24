@@ -24,7 +24,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="Added Collections demo and advanced java package" />
+    <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="Added Collections demo and advanced java package">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/advancedjava/java8features/Streams/StreamFilterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedjava/java8features/Streams/StreamFilterDemo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +79,20 @@
       <recent name="myjava.oops.abstraction" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StremFilterDemo">
+  <component name="RunManager" selected="Application.StreamFilterDemo">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InnerClassDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myjava.oops.class_object_method.InnerClassDemo" />
       <module name="JavaConcepts" />
@@ -103,8 +119,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StremFilterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advancedjava.java8features.Streams.StremFilterDemo" />
+    <configuration name="StreamFilterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advancedjava.java8features.Streams.StreamFilterDemo" />
       <module name="JavaConcepts" />
       <extension name="coverage">
         <pattern>
@@ -153,12 +169,12 @@
       <item itemvalue="Application.PassingBehaviourInOOP" />
       <item itemvalue="Application.TestFileDemo" />
       <item itemvalue="Application.TypeInferenceDemo" />
-      <item itemvalue="Application.StremFilterDemo" />
+      <item itemvalue="Application.StreamFilterDemo" />
       <item itemvalue="JAR Application.TestFileDemoJar" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StremFilterDemo" />
+        <item itemvalue="Application.StreamFilterDemo" />
         <item itemvalue="Application.TestFileDemo" />
         <item itemvalue="Application.PassingBehaviourInOOP" />
         <item itemvalue="Application.TypeInferenceDemo" />
@@ -179,7 +195,7 @@
       <workItem from="1615746306000" duration="1021000" />
       <workItem from="1615759335485" duration="26000" />
       <workItem from="1616021050960" duration="1164000" />
-      <workItem from="1616170989053" duration="610000" />
+      <workItem from="1616170989053" duration="3168000" />
     </task>
     <task id="LOCAL-00001" summary="Added Collections demo and advanced java package">
       <created>1611528016763</created>

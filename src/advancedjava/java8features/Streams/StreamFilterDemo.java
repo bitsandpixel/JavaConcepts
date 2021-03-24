@@ -7,7 +7,7 @@ import java.util.function.Predicate;
 /**
  * @author Vishnu Kandanelly
  */
-public class StremFilterDemo {
+public class StreamFilterDemo {
     public static void main(String[] args) {
         List<String> names = Arrays.asList("vishnu", "Kiran", "Viski", "Joe");
 

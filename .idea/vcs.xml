@@ -3,7 +3,9 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Hello_World" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JavaFXmlPlayground" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/JavaServerPages" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MavenPlayground" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/StudentTask" vcs="Git" />
   </component>
 </project>
