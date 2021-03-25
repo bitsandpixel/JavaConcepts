@@ -29,6 +29,7 @@
 
 ```
 Here I would try to document which concept of java would be suitable for the real life scenario.
+//TODO: when to use array, arraylist, linkedlist??
 ```
 
 *
@@ -59,6 +60,7 @@ like the title says, Random stuff.
 * deep analysis of generics
 * Optional class of Java
 * jsp,hibernate,spring
+* jsf??
 
 ## Referred Links:
 
