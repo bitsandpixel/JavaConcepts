@@ -29,6 +29,7 @@
 
 ```
 Here I would try to document which concept of java would be suitable for the real life scenario.
+//TODO: when to use array, arraylist, linkedlist??
 ```
 
 *
@@ -55,11 +56,10 @@ like the title says, Random stuff.
 * REST with json and xml
 * When Lambda can be replaced with method reference?
 * advantages or arrays compared to collections?
-* ArrayList vs LinkedList
+* arraylist vs linkedlist
 * deep analysis of generics
 * Optional class of Java
 * jsp,hibernate,spring
-* how to make 
 
 ## Referred Links:
 
