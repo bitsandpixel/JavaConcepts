@@ -12,9 +12,9 @@ public class StreamFilterDemo {
     public static void main(String[] args) {
         List<String> names = Arrays.asList("vishnu", "Kiran", "Viski", "Joe");
 
-        System.out.println("----- one of the old ways to print names other than Joe -----");
+        System.out.println("----- imperative style to print names other than Joe -----");
         for (String name : names) {
-            if (!name.equals("Joe")) {
+            if (isNotJoe(name)) {
                 System.out.println(name);
             }
         }
@@ -24,7 +24,7 @@ public class StreamFilterDemo {
         names.stream().filter(new Predicate<String>() {
             @Override
             public boolean test(String name) {
-                return !name.equals("Joe");
+                return isNotJoe(name);
             }
         }).forEach(new Consumer<String>() {
             @Override
@@ -33,9 +33,18 @@ public class StreamFilterDemo {
             }
         });
 
-        System.out.println("----- using lambda and method reference -----");
+        System.out.println("----- using lambda and method reference (functional programming) -----");
         names.stream()
-                .filter(name -> !name.equals("Joe"))
+                .filter(StreamFilterDemo::isNotJoe) //.filter(name -> isNotJoe(name))
                 .forEach(System.out::println);
+    }
+
+    /**
+     * returns true if the given name is not equal to Joe
+     * @param name input name
+     * @return true when the given name is not equal to Joe
+     */
+    private static boolean isNotJoe(String name) {
+        return !name.equals("Joe");
     }
 }
