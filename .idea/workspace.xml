@@ -26,6 +26,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="Added Collections demo and advanced java package">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/advancedjava/java8features/Streams/StreamFilterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedjava/java8features/Streams/StreamFilterDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +52,12 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="JavaConcepts/invalid/Web" />
+      <facet id="JavaConcepts/invalid/Web2" />
+    </ignored-facets>
   </component>
   <component name="ProjectId" id="1ltASF8NIjvPBaa8Om1rRfqii7s" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -80,19 +87,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.StreamFilterDemo">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="InnerClassDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="myjava.oops.class_object_method.InnerClassDemo" />
       <module name="JavaConcepts" />
@@ -158,6 +152,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestFileDemoJar" type="JarApplication">
       <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/JavaConcepts_jar/JavaConcepts.jar" />
       <option name="WORKING_DIRECTORY" value="C:\Users\Vishnu Kiran\Desktop\Machine\JavaConcepts" />
@@ -196,6 +201,7 @@
       <workItem from="1615759335485" duration="26000" />
       <workItem from="1616021050960" duration="1164000" />
       <workItem from="1616170989053" duration="3168000" />
+      <workItem from="1616868905745" duration="3108000" />
     </task>
     <task id="LOCAL-00001" summary="Added Collections demo and advanced java package">
       <created>1611528016763</created>

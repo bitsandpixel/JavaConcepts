@@ -55,10 +55,11 @@ like the title says, Random stuff.
 * REST with json and xml
 * When Lambda can be replaced with method reference?
 * advantages or arrays compared to collections?
-* arraylist vs linkedlist
+* ArrayList vs LinkedList
 * deep analysis of generics
 * Optional class of Java
 * jsp,hibernate,spring
+* how to make 
 
 ## Referred Links:
 
