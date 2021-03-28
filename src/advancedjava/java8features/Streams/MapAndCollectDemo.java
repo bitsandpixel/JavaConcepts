@@ -1,19 +1,21 @@
 package advancedjava.java8features.Streams;
 
+import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
+import lombok.RequiredArgsConstructor;
 
 import java.util.Arrays;
 import java.util.List;
+import java.util.function.Consumer;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 
 /**
- *
+ * @author Vishnu Kandanelly
  * @see "Stream need to have a terminal operation at the end to stop the flow of it. like forEach and Collect"
  * @see "We can use map method to transforming objects from one specific object to another or from same object
  * to another instance"
- *
- * @author Vishnu Kandanelly
  */
 @Data
 public class MapAndCollectDemo {
@@ -45,7 +47,9 @@ public class MapAndCollectDemo {
                 .filter(MapAndCollectDemo::isNotJoe)
                 .map(User::new)
                 .collect(Collectors.toList());
+        System.out.println("---------printing the names of user name list----------");
 
+        userNamesList.forEach(System.out::println);
     }
 
     /**
@@ -60,6 +64,8 @@ public class MapAndCollectDemo {
 }
 
 @Data
+@NoArgsConstructor
+@AllArgsConstructor
 class User {
     private String name;
     private int age = 30;

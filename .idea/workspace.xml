@@ -28,10 +28,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="Added Collections demo and advanced java package">
-      <change afterPath="$PROJECT_DIR$/src/advancedjava/java8features/Streams/MapAndCollectDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advancedjava/java8features/Streams/StreamFilterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedjava/java8features/Streams/StreamFilterDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentTask/src/WordCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudentTask/src/WordCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/advancedjava/java8features/Streams/MapAndCollectDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedjava/java8features/Streams/MapAndCollectDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/StudentTask" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -84,31 +83,20 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="myjava.oops.abstraction" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StreamFilterDemo">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InnerClassDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myjava.oops.class_object_method.InnerClassDemo" />
+  <component name="RunManager" selected="Application.MapAndCollectDemo">
+    <configuration name="MapAndCollectDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advancedjava.java8features.Streams.MapAndCollectDemo" />
       <module name="JavaConcepts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myjava.oops.class_object_method.*" />
+          <option name="PATTERN" value="advancedjava.java8features.Streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,6 +156,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestFileDemoJar" type="JarApplication">
       <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/JavaConcepts_jar/JavaConcepts.jar" />
       <option name="WORKING_DIRECTORY" value="C:\Users\Vishnu Kiran\Desktop\Machine\JavaConcepts" />
@@ -175,20 +176,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.InnerClassDemo" />
       <item itemvalue="Application.PassingBehaviourInOOP" />
       <item itemvalue="Application.TestFileDemo" />
       <item itemvalue="Application.TypeInferenceDemo" />
       <item itemvalue="Application.StreamFilterDemo" />
       <item itemvalue="JAR Application.TestFileDemoJar" />
+      <item itemvalue="Application.MapAndCollectDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MapAndCollectDemo" />
         <item itemvalue="Application.StreamFilterDemo" />
         <item itemvalue="Application.TestFileDemo" />
         <item itemvalue="Application.PassingBehaviourInOOP" />
         <item itemvalue="Application.TypeInferenceDemo" />
-        <item itemvalue="Application.InnerClassDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +207,8 @@
       <workItem from="1615759335485" duration="26000" />
       <workItem from="1616021050960" duration="1164000" />
       <workItem from="1616170989053" duration="3168000" />
-      <workItem from="1616868905745" duration="3108000" />
+      <workItem from="1616868905745" duration="3853000" />
+      <workItem from="1616954169019" duration="4439000" />
     </task>
     <task id="LOCAL-00001" summary="Added Collections demo and advanced java package">
       <created>1611528016763</created>
