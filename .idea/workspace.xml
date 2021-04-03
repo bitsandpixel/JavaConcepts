@@ -181,8 +181,8 @@
       <item itemvalue="Application.TestFileDemo" />
       <item itemvalue="Application.StreamFilterDemo" />
       <item itemvalue="Application.MapAndCollectDemo" />
-      <item itemvalue="JAR Application.TestFileDemoJar" />
       <item itemvalue="Application.StreamFilterCollectionDemo" />
+      <item itemvalue="JAR Application.TestFileDemoJar" />
     </list>
     <recent_temporary>
       <list>
