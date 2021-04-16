@@ -29,8 +29,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="Added Collections demo and advanced java package">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudentTask" beforeDir="false" afterPath="$PROJECT_DIR$/StudentTask" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myjava/datastructures/DataStructures_README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/datastructures/DataStructures_README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myjava/datastructures/QueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/datastructures/QueueDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +89,7 @@
       <recent name="myjava.oops.abstraction" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StreamFilterCollectionDemo">
+  <component name="RunManager" selected="Application.QueueDemo">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -117,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PassingBehaviourInOOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advancedjava.java8features.LambdaExpressions.PassingBehaviourInOOP" />
+    <configuration name="QueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myjava.datastructures.QueueDemo" />
       <module name="JavaConcepts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advancedjava.java8features.LambdaExpressions.*" />
+          <option name="PATTERN" value="myjava.datastructures.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,20 +175,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.PassingBehaviourInOOP" />
       <item itemvalue="Application.TestFileDemo" />
       <item itemvalue="Application.StreamFilterDemo" />
       <item itemvalue="Application.MapAndCollectDemo" />
       <item itemvalue="Application.StreamFilterCollectionDemo" />
       <item itemvalue="JAR Application.TestFileDemoJar" />
+      <item itemvalue="Application.QueueDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QueueDemo" />
         <item itemvalue="Application.StreamFilterCollectionDemo" />
         <item itemvalue="Application.MapAndCollectDemo" />
         <item itemvalue="Application.StreamFilterDemo" />
         <item itemvalue="Application.TestFileDemo" />
-        <item itemvalue="Application.PassingBehaviourInOOP" />
       </list>
     </recent_temporary>
   </component>
