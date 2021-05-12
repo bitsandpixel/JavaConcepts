@@ -1,0 +1,7 @@
+
+x
+Hsrc/advancedjava/java8features/Streams/StreamConvertListIntoSetDemo.java,5\5\557532e78a3e9feb900e434490353f81e82eeeb8
+t
+Dsrc/advancedjava/java8features/Streams/SteamMethodReferenceDemo.java,c\1\c1fd8462db59b23df6346c14083ea072e0ccdcd2
+x
+Hsrc/advancedjava/java8features/Streams/StreamConvertListIntoMapDemo.java,0\d\0d08af112db990c3a243622366691955ac17e76e

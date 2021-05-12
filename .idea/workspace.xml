@@ -28,8 +28,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="Added Collections demo and advanced java package">
+      <change afterPath="$PROJECT_DIR$/src/myjava/datastructures/misc/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myjava/datastructures/misc/SelectionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myjava/datastructures/QueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/datastructures/QueueDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentTask" beforeDir="false" afterPath="$PROJECT_DIR$/StudentTask" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentTask/out/production/StudentTask/WordCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/StudentTask/out/production/StudentTask/WordCounter.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +92,7 @@
       <recent name="myjava.oops.abstraction" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QueueDemo">
+  <component name="RunManager" selected="Application.BubbleSort">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -99,6 +102,19 @@
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myjava.datastructures.misc.BubbleSort" />
+      <module name="JavaConcepts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myjava.datastructures.misc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -129,38 +145,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myjava.datastructures.misc.SelectionSort" />
+      <module name="JavaConcepts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myjava.datastructures.misc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StreamFilterCollectionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="advancedjava.java8features.Streams.StreamFilterCollectionDemo" />
       <module name="JavaConcepts" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="advancedjava.java8features.Streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StreamFilterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advancedjava.java8features.Streams.StreamFilterDemo" />
-      <module name="JavaConcepts" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="advancedjava.java8features.Streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestFileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jsp.TestFileDemo" />
-      <module name="JavaConcepts" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jsp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,20 +178,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.TestFileDemo" />
-      <item itemvalue="Application.StreamFilterDemo" />
       <item itemvalue="Application.MapAndCollectDemo" />
       <item itemvalue="Application.StreamFilterCollectionDemo" />
-      <item itemvalue="JAR Application.TestFileDemoJar" />
       <item itemvalue="Application.QueueDemo" />
+      <item itemvalue="Application.BubbleSort" />
+      <item itemvalue="Application.SelectionSort" />
+      <item itemvalue="JAR Application.TestFileDemoJar" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.SelectionSort" />
         <item itemvalue="Application.QueueDemo" />
         <item itemvalue="Application.StreamFilterCollectionDemo" />
         <item itemvalue="Application.MapAndCollectDemo" />
-        <item itemvalue="Application.StreamFilterDemo" />
-        <item itemvalue="Application.TestFileDemo" />
       </list>
     </recent_temporary>
   </component>
