@@ -27,7 +27,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="Added Collections demo and advanced java package" />
+=======
+    <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="Added Collections demo and advanced java package">
+      <change afterPath="$PROJECT_DIR$/src/myjava/datastructures/misc/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myjava/datastructures/misc/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentTask" beforeDir="false" afterPath="$PROJECT_DIR$/StudentTask" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentTask/out/production/StudentTask/WordCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/StudentTask/out/production/StudentTask/WordCounter.class" afterDir="false" />
+    </list>
+>>>>>>> f8541e2becc046025d9e32ef0addcdd0ea9c92a5
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +86,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -86,7 +96,7 @@
       <recent name="myjava.oops.abstraction" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MapAndCollectDemo">
+  <component name="RunManager" selected="Application.BubbleSort">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -96,6 +106,19 @@
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myjava.datastructures.misc.BubbleSort" />
+      <module name="JavaConcepts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myjava.datastructures.misc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -113,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PassingBehaviourInOOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advancedjava.java8features.LambdaExpressions.PassingBehaviourInOOP" />
+    <configuration name="QueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myjava.datastructures.QueueDemo" />
       <module name="JavaConcepts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="advancedjava.java8features.LambdaExpressions.*" />
+          <option name="PATTERN" value="myjava.datastructures.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,38 +149,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamFilterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advancedjava.java8features.Streams.StreamFilterDemo" />
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myjava.datastructures.misc.SelectionSort" />
+      <module name="JavaConcepts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myjava.datastructures.misc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamFilterCollectionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advancedjava.java8features.Streams.StreamFilterCollectionDemo" />
       <module name="JavaConcepts" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="advancedjava.java8features.Streams.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestFileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jsp.TestFileDemo" />
-      <module name="JavaConcepts" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jsp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TypeInferenceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advancedjava.java8features.LambdaExpressions.TypeInferenceDemo" />
-      <module name="JavaConcepts" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="advancedjava.java8features.LambdaExpressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,20 +182,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.PassingBehaviourInOOP" />
-      <item itemvalue="Application.TestFileDemo" />
-      <item itemvalue="Application.TypeInferenceDemo" />
-      <item itemvalue="Application.StreamFilterDemo" />
       <item itemvalue="Application.MapAndCollectDemo" />
+      <item itemvalue="Application.StreamFilterCollectionDemo" />
+      <item itemvalue="Application.QueueDemo" />
+      <item itemvalue="Application.BubbleSort" />
+      <item itemvalue="Application.SelectionSort" />
       <item itemvalue="JAR Application.TestFileDemoJar" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.SelectionSort" />
+        <item itemvalue="Application.QueueDemo" />
+        <item itemvalue="Application.StreamFilterCollectionDemo" />
         <item itemvalue="Application.MapAndCollectDemo" />
-        <item itemvalue="Application.StreamFilterDemo" />
-        <item itemvalue="Application.TestFileDemo" />
-        <item itemvalue="Application.PassingBehaviourInOOP" />
-        <item itemvalue="Application.TypeInferenceDemo" />
       </list>
     </recent_temporary>
   </component>
