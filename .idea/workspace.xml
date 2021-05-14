@@ -27,16 +27,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="Added Collections demo and advanced java package">
-      <change afterPath="$PROJECT_DIR$/src/advancedjava/java8features/Streams/SteamMethodReferenceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedjava/java8features/Streams/StreamConvertListIntoMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedjava/java8features/Streams/StreamConvertListIntoSetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedjava/java8features/Streams/StreamCountDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedjava/java8features/Streams/StreamFindMinMaxdemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudentTask" beforeDir="false" afterPath="$PROJECT_DIR$/StudentTask" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudentTask/src/WordCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudentTask/src/WordCounter.java" afterDir="false" />
-    </list>
+    <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="Added Collections demo and advanced java package" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
