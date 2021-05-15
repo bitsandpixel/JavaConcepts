@@ -1,9 +1,9 @@
-package advancedjava.java8features.Streams;
+package advancedjava.java8features.streams;
 
 /**
  * @author Vishnu Kandanelly
  */
-public class StreamCountDemo {
+public class StreamCollectorsSumDemo {
 
     public static void main(String[] args) {
 

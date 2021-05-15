@@ -1,4 +1,4 @@
-package advancedjava.java8features.LambdaExpressions;
+package advancedjava.java8features.lambdaexpressions;
 
 public class TypeInferenceDemo {
     public static void main(String[] args) {

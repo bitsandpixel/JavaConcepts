@@ -1,9 +1,9 @@
-package advancedjava.java8features.Streams;
+package advancedjava.java8features.streams;
 
 /**
  * @author Vishnu Kandanelly
  */
-public class StreamConvertListIntoSetDemo {
+public class StreamFilterIterationDemo {
 
     public static void main(String[] args) {
 

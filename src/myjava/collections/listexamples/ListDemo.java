@@ -1,4 +1,4 @@
-package myjava.collections.ListExamples;
+package myjava.collections.listexamples;
 
 /**
  * @author Vishnu Kandanelly
