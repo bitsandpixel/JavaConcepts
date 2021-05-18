@@ -3,3 +3,23 @@ x
 Hsrc/advancedjava/java8features/Streams/StreamConvertListIntoSetDemo.java,5\5\557532e78a3e9feb900e434490353f81e82eeeb8
 x
 Hsrc/advancedjava/java8features/Streams/StreamConvertListIntoMapDemo.java,0\d\0d08af112db990c3a243622366691955ac17e76e
+a
+1src/myjava/datastructures/misc/SelectionSort.java,c\9\c91a490ea7968df01b0c713ed5f7fe46be886e9b
+^
+.src/myjava/datastructures/misc/BubbleSort.java,0\8\084b7b614e157bbf76fbdfc3a63474d9ffa2c4c5
+w
+Gsrc/advancedjava/java8features/lambdaexpressions/LambdaBasics_README.md,5\d\5d539bf12858be6dba2542c6c2df8368e3c508d8
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+{
+Ksrc/advancedjava/java8features/lambdaexpressions/PassingBehaviourInOOP.java,d\0\d05f52ce9eb075c34c45a1286c8f9be904d498af
+z
+Jsrc/advancedjava/java8features/lambdaexpressions/LambdaExpressionDemo.java,1\c\1ca06e4909becdd96d43a114de6b7f7cd791eaa4
+s
+Csrc/advancedjava/java8features/optionalclass/OptionalClassDemo.java,d\c\dcfb7519f744e9442598fb0c32b820d0fdc65133
+l
+<src/advancedjava/java8features/streams/StreamFilterDemo.java,3\a\3adb3f5d8b8eca4624b91d6be518e91cfc1c9d0f
+m
+=src/advancedjava/java8features/streams/MapAndCollectDemo.java,4\2\42ab0f6a450fe182139185de580727149557c798
+_
+/src/advancedjava/java8features/ForEachDemo.java,9\3\93e4c661744197543dc144108790f1ae246cbc7e
