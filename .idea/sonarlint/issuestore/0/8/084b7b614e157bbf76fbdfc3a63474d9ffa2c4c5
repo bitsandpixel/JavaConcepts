@@ -1,16 +1,0 @@
-
-D
-java:S6212"/Declare this local variable with "var" instead.(õĞÑ)
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Ïşã•üÿÿÿÿ
-B
-java:S1602",Remove useless curly braces around statement(¡Ü²ö
-N	java:S106"9Replace this use of System.out or System.err by a logger.(¡èò
-N	java:S106"9Replace this use of System.out or System.err by a logger.(òÁ
-J
-java:S6212"/Declare this local variable with "var" instead.(ªĞŞÔıÿÿÿÿ
-E
-java:S6212"/Declare this local variable with "var" instead.(²«°ˆ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Á´‰¯
-B
-java:S1602",Remove useless curly braces around statement(¡Ü²ö
-N	java:S106 "9Replace this use of System.out or System.err by a logger.(¡èò
