@@ -27,48 +27,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="Added Collections demo and advanced java package">
-      <change afterPath="$PROJECT_DIR$/src/advancedjava/java7features/queue/BBQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedjava/java7features/queue/QueueInterfaceDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/8/084b7b614e157bbf76fbdfc3a63474d9ffa2c4c5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/c/1ca06e4909becdd96d43a114de6b7f7cd791eaa4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3adb3f5d8b8eca4624b91d6be518e91cfc1c9d0f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/42ab0f6a450fe182139185de580727149557c798" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5d539bf12858be6dba2542c6c2df8368e3c508d8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/93e4c661744197543dc144108790f1ae246cbc7e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/0/d05f52ce9eb075c34c45a1286c8f9be904d498af" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/c/dcfb7519f744e9442598fb0c32b820d0fdc65133" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="Added introduction section in Collections_README.md and a class to explain the problems before collection framework was introduced.">
+      <change afterPath="$PROJECT_DIR$/src/myjava/collections/ProblemBeforeCollectionsIntroductionDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/Greeting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/Greeting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/Hello.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/HelloWorldGreeting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/HelloWorldGreeting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/LambdaExpressionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/LambdaExpressionDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/PassingBehaviourInOOP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/PassingBehaviourInOOP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/StringLengthLambda.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/StringLengthLambda.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/TypeInferenceDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/TypeInferenceDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/OptionalClass/OptionalClassDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/OptionalClass/OptionalClassDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/MapAndCollectDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/MapAndCollectDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/SteamMethodReferenceDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/SteamMethodReferenceDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamCollectorsSumDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamCollectorsSumDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamConvertListIntoMapDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamConvertListIntoMapDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamConvertListIntoSetDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamConvertListIntoSetDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamCountDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamCountDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamFilterCollectionDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamFilterCollectionDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamFilterDemo$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamFilterDemo$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamFilterDemo$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamFilterDemo$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamFilterDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamFilterDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamFilterIterationDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamFilterIterationDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamFindMinMaxdemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamFindMinMaxdemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamIterationDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamIterationDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamReduceDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamReduceDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/collections/ListExamples/ListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/collections/ListExamples/ListDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/collections/ListExamples/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/collections/ListExamples/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/collections/ListExamples/PersonElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/collections/ListExamples/PersonElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/collections/ListExamples/PersonList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/collections/ListExamples/PersonList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myjava/collections/Collections_README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/collections/Collections_README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myjava/datastructures/BinarySearchTreeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/datastructures/BinarySearchTreeDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,6 +77,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
@@ -217,9 +181,9 @@
       <item itemvalue="Application.BubbleSort" />
       <item itemvalue="Application.SelectionSort" />
       <item itemvalue="Application.ForEachDemo" />
-      <item itemvalue="JAR Application.TestFileDemoJar" />
       <item itemvalue="Application.QueueInterfaceDemo" />
       <item itemvalue="Application.BBQ" />
+      <item itemvalue="JAR Application.TestFileDemoJar" />
     </list>
     <recent_temporary>
       <list>
@@ -275,7 +239,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Collections demo and advanced java package" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Collections demo and advanced java package" />
+    <MESSAGE value="Added introduction section in Collections_README.md and a class to explain the problems before collection framework was introduced." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added introduction section in Collections_README.md and a class to explain the problems before collection framework was introduced." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

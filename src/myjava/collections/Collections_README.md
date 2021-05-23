@@ -1,7 +1,21 @@
 # Collections
 
+* [Introduction](#introduction)
 * [Concepts](#concepts)
 * [Random Notes](#random-notes)
+
+## Introduction
+* Any group of individual objects which are represented as a single unit is known as the collection of the objects.
+
+* Java Collection Framework was introduced in JDK 1.2 to provide a separate common framework to group the java objects.
+  before the introduction of Collection framework the standard methods to perform this task are Arrays, Vectors, Hashtables.
+  All of these collections had no common interface as you can observe here in `ProblemBeforeCollectionsIntroductionDemo` class.
+  They were defined independently and had no correlation among them 
+  which was difficult for the users to remember different implementations.
+  
+* The Collection interface `(java.util.Collection)` and Map interface `(java.util.Map)` 
+  are the two main “root” interfaces of Java collection classes.
+  
 
 ## Concepts
 * [ArrayList](#arraylist)
