@@ -27,9 +27,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="Added Collections demo and advanced java package">
-      <change afterPath="$PROJECT_DIR$/src/myjava/oops/class_object_method/ExampleClass.java" afterDir="false" />
+    <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="Added introduction section in Collections_README.md and a class to explain the problems before collection framework was introduced.">
+      <change afterPath="$PROJECT_DIR$/src/myjava/collections/ProblemBeforeCollectionsIntroductionDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myjava/collections/Collections_README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/collections/Collections_README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myjava/datastructures/BinarySearchTreeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/datastructures/BinarySearchTreeDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +77,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
@@ -178,9 +181,9 @@
       <item itemvalue="Application.BubbleSort" />
       <item itemvalue="Application.SelectionSort" />
       <item itemvalue="Application.ForEachDemo" />
-      <item itemvalue="JAR Application.TestFileDemoJar" />
       <item itemvalue="Application.QueueInterfaceDemo" />
       <item itemvalue="Application.BBQ" />
+      <item itemvalue="JAR Application.TestFileDemoJar" />
     </list>
     <recent_temporary>
       <list>
@@ -236,7 +239,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Collections demo and advanced java package" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Collections demo and advanced java package" />
+    <MESSAGE value="Added introduction section in Collections_README.md and a class to explain the problems before collection framework was introduced." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added introduction section in Collections_README.md and a class to explain the problems before collection framework was introduced." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
