@@ -42,6 +42,7 @@ any information I could not decide yet to segregate would first come here.
 like the title says, Random stuff.
 ```
 
+* Complete the course on Parallel, Concurrent, Distributed programming
 * Constructor,static,this, aggregation, add remaining polymorphism topics
 * What is a binding framework?
 * How Maven Actually works?
