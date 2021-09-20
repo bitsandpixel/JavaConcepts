@@ -22,7 +22,7 @@
 
 * I have divided the project into two main packages which themselves have child packages based on the different areas
   covered in the project.
-    * myjava
+    * basicjava
     * advancedjava
 
 ## When to use?
@@ -66,7 +66,8 @@ like the title says, Random stuff.
 
 1. https://www.javaguides.net/2019/08/oops-concepts-in-java-with-realtime-examples.html
 2. https://www.javatpoint.com/java-tutorial
-3. https://www.youtube.com/watch?v=8cm1x4bC610&list=PLsyeobzWxl7pSqMzPF_SlvQ0IdcGA-XI2
-4. https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa9YGfyhyW2CqdtW9RtY-I3
-5. https://howtodoinjava.com/jaxb/write-object-to-xml/
-6. https://www.baeldung.com
+3. https://www.jetbrains.com/help/idea/convert-a-regular-project-into-a-maven-project.html
+4. https://www.youtube.com/watch?v=8cm1x4bC610&list=PLsyeobzWxl7pSqMzPF_SlvQ0IdcGA-XI2
+5. https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa9YGfyhyW2CqdtW9RtY-I3
+6. https://howtodoinjava.com/jaxb/write-object-to-xml/
+7. https://www.baeldung.com
