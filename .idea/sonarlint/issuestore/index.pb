@@ -1,7 +1,5 @@
 
-x
-Hsrc/advancedjava/java8features/Streams/StreamConvertListIntoSetDemo.java,5\5\557532e78a3e9feb900e434490353f81e82eeeb8
-x
-Hsrc/advancedjava/java8features/Streams/StreamConvertListIntoMapDemo.java,0\d\0d08af112db990c3a243622366691955ac17e76e
-a
-1src/myjava/datastructures/misc/SelectionSort.java,c\9\c91a490ea7968df01b0c713ed5f7fe46be886e9b
+g
+7src/main/java/advancedjava/java7features/queue/BBQ.java,3\d\3dbd9d80abbdb327bef4df2c92b77f4a80fc4af3
+i
+9src/main/java/advancedjava/java8features/ForEachDemo.java,9\8\98aedd32c2c37f27174e960a0a97483deb0f33e5
