@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 x
 Hsrc/advancedjava/java8features/Streams/StreamConvertListIntoSetDemo.java,5\5\557532e78a3e9feb900e434490353f81e82eeeb8
 x
@@ -21,3 +22,9 @@ c
 3src/myjava/datastructures/BinarySearchTreeDemo.java,2\1\21839261de1f87aa685d7e88726a01433b9f69a9
 a
 1src/myjava/collections/listexamples/ListDemo.java,c\8\c86bab71ed72f7ae298d862ee58640c0fbd26445
+=======
+g
+7src/main/java/advancedjava/java7features/queue/BBQ.java,3\d\3dbd9d80abbdb327bef4df2c92b77f4a80fc4af3
+i
+9src/main/java/advancedjava/java8features/ForEachDemo.java,9\8\98aedd32c2c37f27174e960a0a97483deb0f33e5
+>>>>>>> e948462168212911fd44e92679668dda01413c6d

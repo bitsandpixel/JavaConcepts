@@ -1,25 +1,0 @@
-
-ƒ
-java:S1192"mDefine a constant instead of duplicating this literal "Before selection sort - in ascending order: " 3 times.(ÂŒ¬
-D
-java:S6212"/Declare this local variable with "var" instead.(õĞÑ)
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ÂŒ¬
-B
-java:S1602",Remove useless curly braces around statement(¡Ü²ö
-N	java:S106"9Replace this use of System.out or System.err by a logger.(¡èò
-N	java:S106"9Replace this use of System.out or System.err by a logger.(£„ì˜
-E
-java:S6212"/Declare this local variable with "var" instead.(‡¢«µ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ÕİÃÒ
-B
-java:S1602",Remove useless curly braces around statement(¡Ü²ö
-N	java:S106"9Replace this use of System.out or System.err by a logger.(¡èò
-N	java:S106!"9Replace this use of System.out or System.err by a logger.(‡ıä 
-N	java:S106""9Replace this use of System.out or System.err by a logger.(ÂŒ¬
-B
-java:S1602$",Remove useless curly braces around statement(¡Ü²ö
-N	java:S106%"9Replace this use of System.out or System.err by a logger.(¡èò
-N	java:S106'"9Replace this use of System.out or System.err by a logger.(ÂŒ¬
-B
-java:S1602)",Remove useless curly braces around statement(¡Ü²ö
-N	java:S106*"9Replace this use of System.out or System.err by a logger.(¡èò

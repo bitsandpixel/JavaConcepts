@@ -19,7 +19,7 @@ public class Contractor extends AbstractionEmployee {
 
     /*
     //TODO: come with a strategy to log possible errors here
-     @error: there is no default constructor in myjava.oops.abstraction.AbstractionEmployee
+     @error: there is no default constructor in basicjava.oops.abstraction.AbstractionEmployee
      //can be fixed it by;
       1. adding default constructor in parent abstract class or
       2. creating an equivalent constructor(parameterized) in child class
