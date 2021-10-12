@@ -28,10 +28,132 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c740dca-ba64-402b-8580-e784cfe8d02f" name="Default Changelist" comment="Added introduction section in Collections_README.md and a class to explain the problems before collection framework was introduced.">
-      <change afterPath="$PROJECT_DIR$/src/myjava/collections/ProblemBeforeCollectionsIntroductionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myjava/collections/Collections_README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/collections/Collections_README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/myjava/datastructures/BinarySearchTreeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/myjava/datastructures/BinarySearchTreeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java5features/JavaAnnotationsDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java7features/queue/BBQ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java7features/queue/QueueInterfaceDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/AndriodPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/ForEachDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/FunctionalInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/Greeting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/HelloWorldGreeting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/LambdaExpressionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/PassingBehaviourInOOP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/StringLengthLambda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/LambdaExpressions/TypeInferenceDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/MethodReferenceDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/OptionalClass/OptionalClassDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/OptionalClassDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/MapAndCollectDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/SteamMethodReferenceDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamCollectorsSumDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamConvertListIntoMapDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamConvertListIntoSetDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamCountDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamFilterCollectionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamFilterDemo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamFilterDemo$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamFilterDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamFilterIterationDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamFindMinMaxdemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamIterationDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/StreamReduceDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/java8features/Streams/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/serialisation/Save.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/serialisation/jaxbPlayground/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/serialisation/jaxbPlayground/JavaObjToXML.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/advancedjava/serialisation/serializing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/collections/ArrayListDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/collections/CollectionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/collections/Collections_README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/collections/Collections_README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/collections/ComparableInterfaceDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/collections/ComparatorInterfaceDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/collections/ComparatorWithCustomTypeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/collections/DoubleBraceDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/collections/HashMapDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/collections/HashTableDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/collections/IntegerWareHouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/collections/LinkedListDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/collections/ListExamples/ListDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/collections/ListExamples/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/collections/ListExamples/PersonElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/collections/ListExamples/PersonList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/collections/MapInterfaceDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/collections/SetInterfaceDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/collections/VectorDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/datastructures/ArrayDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/datastructures/BinarySearchTreeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/datastructures/BinaryTreeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/datastructures/GraphDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/datastructures/HashingDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/datastructures/HeapDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/datastructures/QueueDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/datastructures/Runner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/datastructures/StackDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/datastructures/misc/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/datastructures/misc/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/exceptionhandling/ExceptionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/exceptionhandling/InputDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/exceptionhandling/MyException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/exceptionhandling/UserDefinedExceptionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/languagebasics/controlflowstatements/forLoopDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/languagebasics/string/StringManipulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/multithreading/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/multithreading/Counter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/multithreading/Hallo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/multithreading/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/multithreading/Hi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/multithreading/InterThreadCommunication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/multithreading/Moin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/multithreading/Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/multithreading/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/multithreading/RunnableImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/multithreading/RunnableLambda$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/multithreading/RunnableLambda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/multithreading/SynchronizationDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/multithreading/ThreadDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/abstraction/AbstractionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/abstraction/AbstractionEmployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/abstraction/Contractor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/abstraction/FullTimeEmployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/ChildMethodCalling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/InnerClassDemo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/InnerClassDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/MethodCalling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/MethodPractice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/OuterClass$InnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/OuterClass$StaticInnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/OuterClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/OuterInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/class_object_method/StudentClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/encapsulation/EncapsulationDemonstration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/encapsulation/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/inheritance/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/inheritance/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/inheritance/SingleInheritance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/misc/CallByValueDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/misc/Operation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/misc/Operation2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/misc/recursion/Numbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/misc/recursion/PositiveNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/misc/recursion/RecursionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/polymorphism/CashPayment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/polymorphism/CreditPayment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/polymorphism/Payment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/polymorphism/Polymorphism.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/polymorphism/compiletimepolymorphism/Adder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/polymorphism/compiletimepolymorphism/TestOverloading1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/polymorphism/runtimepolymorphism/Bike.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/polymorphism/runtimepolymorphism/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/polymorphism/runtimepolymorphism/Honda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/polymorphism/runtimepolymorphism/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/polymorphism/runtimepolymorphism/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/polymorphism/runtimepolymorphism/TestPolymorphism2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaConcepts/myjava/oops/polymorphism/runtimepolymorphism/Triangle.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,8 +213,12 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="myjava.oops.abstraction" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Vishnu\IdeaProjects\JavaConcepts" />
+      <recent name="C:\Users\Vishnu\IdeaProjects\JavaConcepts\src\myjava\playground" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.BBQ">
+  <component name="RunManager" selected="Application.Sequence">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -124,7 +250,7 @@
       <module name="JavaConcepts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myjava.datastructures.misc.*" />
+          <option name="PATTERN" value="myjava.playground.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +284,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="myjava.datastructures.misc.SelectionSort" />
+    <configuration name="Sequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myjava.playground.Sequence" />
       <module name="JavaConcepts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="myjava.datastructures.misc.*" />
+          <option name="PATTERN" value="myjava.playground.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,19 +305,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.BubbleSort" />
-      <item itemvalue="Application.SelectionSort" />
       <item itemvalue="Application.ForEachDemo" />
       <item itemvalue="Application.QueueInterfaceDemo" />
       <item itemvalue="Application.BBQ" />
+      <item itemvalue="Application.Sequence" />
       <item itemvalue="JAR Application.TestFileDemoJar" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sequence" />
         <item itemvalue="Application.BBQ" />
         <item itemvalue="Application.QueueInterfaceDemo" />
         <item itemvalue="Application.ForEachDemo" />
         <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.SelectionSort" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +345,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611528016763</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added introduction section in Collections_README.md and a class to explain the problems before collection framework was introduced.">
+      <created>1621799409496</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621799409496</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,6 +402,11 @@
           <url>file://$PROJECT_DIR$/src/advancedjava/serializing.java</url>
           <line>11</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/myjava/playground/Sequence.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
