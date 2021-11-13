@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23bccf86-fa23-4b61-a751-c276215f8309" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/afa6dbbc63da0d7e15256f4a314ec3ad2230a53c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/cedf027adb1aa576f9cb34c2dd2748c31a7e6e80" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ListOfNames.csv" beforeDir="false" afterPath="$PROJECT_DIR$/ListOfNames.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basicjava/playground/Sequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basicjava/playground/Sequence.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +14,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="JavaConcepts/invalid/Web" />
+      <facet id="JavaConcepts/invalid/Web2" />
+    </ignored-facets>
   </component>
   <component name="ProjectId" id="1zdvFrv6WlyhQhYe6vOTWaiWrBM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
