@@ -5,12 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23bccf86-fa23-4b61-a751-c276215f8309" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/advancedjava/serialisation/xmlparsing/play.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/advancedjava/serialisation/xmlparsing/playground.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/8/58059e4781e7607c7df0e6a4cb3c864498681c2a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,6 +42,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -39,11 +51,11 @@
   </component>
   <component name="RunManager" selected="Application.SortByColumn">
     <configuration name="SortByColumn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicjava.playground.SortByColumn" />
+      <option name="MAIN_CLASS_NAME" value="core.playground.SortByColumn" />
       <module name="JavaConcepts" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basicjava.playground.*" />
+          <option name="PATTERN" value="core.playground.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>

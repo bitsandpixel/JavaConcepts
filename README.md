@@ -22,7 +22,7 @@
 
 * I have divided the project into two main packages which themselves have child packages based on the different areas
   covered in the project.
-    * basicjava
+    * core
     * advancedjava
 
 ## When to use?

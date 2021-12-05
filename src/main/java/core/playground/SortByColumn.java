@@ -1,4 +1,4 @@
-package basicjava.playground;
+package core.playground;
 
 import java.io.IOException;
 import java.nio.file.Files;

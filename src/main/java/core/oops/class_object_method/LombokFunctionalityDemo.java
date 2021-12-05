@@ -1,4 +1,4 @@
-package basicjava.oops.class_object_method;
+package core.oops.class_object_method;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
