@@ -1,20 +1,0 @@
-
-D
-java:S6212"/Declare this local variable with "var" instead.(±…-
-S	java:S106"9Replace this use of System.out or System.err by a logger.(á¤”™ùÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(á¤”™ùÿÿÿÿ
-]	java:S125"<This block of commented-out lines of code should be removed.(èÜ×úÿÿÿÿ8›åîÙ˜/
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ÚˆÛ×ÿÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ÚˆÛ×ÿÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ööĞÍøÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ööĞÍøÿÿÿÿ
-N	java:S106 "9Replace this use of System.out or System.err by a logger.(¯ÛË
-S	java:S106!"9Replace this use of System.out or System.err by a logger.(×‡ öúÿÿÿÿ
-S	java:S106$"9Replace this use of System.out or System.err by a logger.(Öš®Ğÿÿÿÿÿ
-N	java:S106/"9Replace this use of System.out or System.err by a logger.(öÒÌÉ
-S	java:S1069"9Replace this use of System.out or System.err by a logger.(»ıéŠùÿÿÿÿ
-N	java:S106?"9Replace this use of System.out or System.err by a logger.(¾×†„
-E
-java:S6212@"/Declare this local variable with "var" instead.(ÎÂ²¸
-Z	java:S106A"9Replace this use of System.out or System.err by a logger.(àüÿÊüÿÿÿÿ8ÏäåÙ˜/
-Z	java:S106C"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ªşèÙ˜/
