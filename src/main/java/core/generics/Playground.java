@@ -1,5 +1,8 @@
 package core.generics;
 
+import lombok.Data;
+
+import javax.swing.*;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -44,5 +47,38 @@ public class Playground {
 
         System.out.println(firstNum + ", " + firstName);
 
+        Row row = new Row(100);
+        Tree<Row> rowTree = new Tree<>(row);
+        rowTree.root.data.number = 1;
     }
+
+    @Data
+    private static class Row {
+        private int number;
+
+        public Row(int i) {
+            number = i;
+        }
+    }
+
+    @Data
+    private static class Tree<T> {
+        private TreeNode<T> root;
+
+        public Tree(T rootData) {
+            root = new TreeNode<>(rootData);
+        }
+    }
+
+    @Data
+    private static class TreeNode<T> {
+        public T data;
+        public TreeNode<T> parent;
+
+        public TreeNode(T data) {
+            this.data = data;
+        }
+    }
+
+
 }

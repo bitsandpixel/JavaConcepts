@@ -1,7 +1,33 @@
 
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
-}
-Msrc/main/java/basicjava/languagebasics/controlflowstatements/forLoopDemo.java,a\f\afa6dbbc63da0d7e15256f4a314ec3ad2230a53c
-w
-Gsrc/main/java/advancedjava/java8features/streams/MapAndCollectDemo.java,c\e\cedf027adb1aa576f9cb34c2dd2748c31a7e6e80
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+p
+@src/main/java/advancedjava/java5features/java5features_README.md,8\2\826870aebf08f3305f2f6d4453654469fd627043
+s
+Csrc/main/java/advancedjava/serialisation/xmlparsing/playground.java,5\8\58707f467b6dae3a7d8905ac161103af6ae9efd8
+l
+<src/main/java/advancedjava/serialisation/xmlparsing/play.xml,e\4\e4815cf07fbbd3e22b1d2f8fc41f175c95942f61
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+d
+4src/main/java/core/collections/Collections_README.md,1\f\1f6afd9d8831afc70bf21c806556e0b0b0617133
+[
++src/main/java/core/generics/Playground.java,f\5\f57aed25c2fdb8859dbdec34ae11c8a6862064d0
+i
+9src/main/java/core/collections/listexamples/ListDemo.java,f\c\fc44d5011e5727afaa393299930a9afed3255cd9
+_
+/src/main/java/core/playground/SortByColumn.java,9\d\9d51f2f7df8ab4b5cc106f92fde1a837c9c8ef91
+W
+'src/main/java/core/playground/Main.java,c\7\c7d53d03af2fbeb22cf8d8b0d3d5b62832983399
+b
+2src/main/java/core/collections/CollectionDemo.java,8\7\874de2c92ec184c7ed0c3afb58c54fe81ec507f2
+k
+;src/main/java/core/collections/ComparableInterfaceDemo.java,a\4\a4fd45f839449c6c68d265fc1482b08c46598849
+k
+;src/main/java/core/collections/ComparatorInterfaceDemo.java,9\7\971df9d582a48f06c627eff9a95e974d2c403531
+p
+@src/main/java/core/collections/ComparatorWithCustomTypeDemo.java,c\0\c04423165826cabbd2445f1654d2eb965b1d12bc
+c
+3src/main/java/core/collections/DoubleBraceDemo.java,a\d\ad6c473b00b1f44180db135271b43fb107986aed

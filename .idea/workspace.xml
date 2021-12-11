@@ -5,8 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23bccf86-fa23-4b61-a751-c276215f8309" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/generics/Playground.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/core/playground/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/afa6dbbc63da0d7e15256f4a314ec3ad2230a53c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/cedf027adb1aa576f9cb34c2dd2748c31a7e6e80" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/collections/DoubleBraceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/collections/DoubleBraceDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/collections/HashTableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/collections/HashTableDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/collections/SetInterfaceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/collections/SetInterfaceDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/collections/VectorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/collections/VectorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/collections/listexamples/ListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/collections/listexamples/ListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/core/generics/Playground.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/core/generics/Playground.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/core/generics/Playground.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/core/generics/Playground.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/myjava/collections/listexamples/ListDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/myjava/collections/listexamples/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/myjava/collections/listexamples/PersonElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/myjava/collections/listexamples/PersonList.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +68,33 @@
       <recent name="C:\Users\Vishnu\IdeaProjects\JavaConcepts\src\main\java\basicjava\playground" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Playground">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core.collections.listexamples.ListDemo" />
+      <module name="JavaConcepts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="core.collections.listexamples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core.playground.Main" />
+      <module name="JavaConcepts" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="core.playground.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Playground" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="core.generics.Playground" />
       <module name="JavaConcepts" />
@@ -98,9 +138,13 @@
       <item itemvalue="Application.forLoopDemo" />
       <item itemvalue="Application.SortByColumn" />
       <item itemvalue="Application.Playground" />
+      <item itemvalue="Application.ListDemo" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ListDemo" />
         <item itemvalue="Application.Playground" />
         <item itemvalue="Application.SortByColumn" />
         <item itemvalue="Application.forLoopDemo" />

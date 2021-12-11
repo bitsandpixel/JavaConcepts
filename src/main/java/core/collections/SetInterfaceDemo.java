@@ -1,4 +1,4 @@
-package myjava.collections;
+package core.collections;
 
 /**
  * @author Vishnu Kandanelly

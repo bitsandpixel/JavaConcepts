@@ -1,21 +1,0 @@
-
-V	java:S125
-"<This block of commented-out lines of code should be removed.(î¹Î¤øÿÿÿÿ
-m
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(úÌãüÿÿÿÿ
-V	java:S125"<This block of commented-out lines of code should be removed.(¤£èËüÿÿÿÿ
-V	java:S125("<This block of commented-out lines of code should be removed.(¤£èËüÿÿÿÿ
-V	java:S125B"<This block of commented-out lines of code should be removed.(Á“–øÿÿÿÿ
-V	java:S125D"<This block of commented-out lines of code should be removed.(æ¦¸Éùÿÿÿÿ
-Q	java:S125H"<This block of commented-out lines of code should be removed.(Óæ­î
-V
-java:S1119P";Refactor the code to remove this label and the need for it.(ö˜‡¢ıÿÿÿÿ
-Q
-java:S1119R";Refactor the code to remove this label and the need for it.(ß¹ë¹
-7
-java:S1116q"Remove this empty statement.(Åñ­õşÿÿÿÿ
-V	java:S125x"<This block of commented-out lines of code should be removed.(óõ€½üÿÿÿÿ
-n	java:S135S"YReduce the total number of break and continue statements in this loop to use at most one.(º••²
-g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ãÕÑÚûÿÿÿÿ
-÷
-java:S1598"ÛThis file "forLoopDemo.java" should be located in "myjava\languagebasics\controlflowstatements" directory, not in "C:\Users\Vishnu\IdeaProjects\JavaConcepts\src\main\java\basicjava\languagebasics\controlflowstatements".(Ë“Âğüÿÿÿÿ
