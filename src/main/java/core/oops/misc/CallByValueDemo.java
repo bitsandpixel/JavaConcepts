@@ -1,4 +1,4 @@
-package myjava.oops.misc;
+package core.oops.misc;
 
 /**
  * There is only call by value in java, not call by reference. If we call a method passing a value,

@@ -1,4 +1,4 @@
-package myjava.oops.polymorphism.runtimepolymorphism;
+package core.oops.polymorphism.runtimepolymorphism;
 
 /**
  * The method is overridden not applicable data members, so runtime polymorphism can't be

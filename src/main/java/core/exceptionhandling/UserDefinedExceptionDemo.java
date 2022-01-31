@@ -1,4 +1,4 @@
-package myjava.exceptionhandling;
+package core.exceptionhandling;
 
 /**
  * @author Vishnu Kandanelly

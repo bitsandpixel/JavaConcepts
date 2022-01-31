@@ -1,4 +1,4 @@
-package myjava.multithreading;
+package core.multithreading;
 
 /**
  * We would implement synchronization keyword

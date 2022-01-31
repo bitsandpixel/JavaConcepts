@@ -1,4 +1,4 @@
-package myjava.multithreading;
+package core.multithreading;
 
 /**
  * We will be using Anonymous classes and lambda expressions here to achieve the same output here.

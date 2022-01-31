@@ -1,4 +1,4 @@
-package myjava.languagebasics.string;
+package core.languagebasics.string;
 
 /**
  * @author Vishnu Kandanelly

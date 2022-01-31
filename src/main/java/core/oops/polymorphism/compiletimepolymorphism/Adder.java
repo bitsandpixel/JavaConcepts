@@ -1,4 +1,4 @@
-package myjava.oops.polymorphism.compiletimepolymorphism;
+package core.oops.polymorphism.compiletimepolymorphism;
 
 /**
  * //TODO: improve the examples later

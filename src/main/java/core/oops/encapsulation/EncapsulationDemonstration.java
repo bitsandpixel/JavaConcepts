@@ -1,4 +1,4 @@
-package myjava.oops.encapsulation;
+package core.oops.encapsulation;
 
 /**
  * @author Vishnu Kandanelly

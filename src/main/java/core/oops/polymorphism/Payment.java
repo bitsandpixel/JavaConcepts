@@ -1,4 +1,4 @@
-package myjava.oops.polymorphism;
+package core.oops.polymorphism;
 
 /**
  * This represents payment interface
@@ -45,8 +45,5 @@ class Polymorphism{
 
         payment = new CreditPayment();
         payment.pay(); // pay by credit card
-
-
-
     }
 }

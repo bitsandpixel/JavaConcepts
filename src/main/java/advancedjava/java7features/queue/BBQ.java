@@ -4,6 +4,8 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /**
+ * FIFO - First in First out; just like a queue in the real life.
+ *
  * @author Vishnu Kandanelly
  */
 public class BBQ {

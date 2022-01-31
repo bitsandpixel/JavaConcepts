@@ -1,4 +1,4 @@
-package myjava.multithreading;
+package core.multithreading;
 
 /**
  * @author Vishnu Kandanelly

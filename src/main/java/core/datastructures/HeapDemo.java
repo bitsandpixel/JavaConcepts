@@ -1,4 +1,4 @@
-package myjava.datastructures;
+package core.datastructures;
 
 /**
  * @author Vishnu Kandanelly

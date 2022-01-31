@@ -1,4 +1,4 @@
-package myjava.oops.abstraction;
+package core.oops.abstraction;
 
 /**
  * @author Vishnu Kandanelly

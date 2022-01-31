@@ -1,4 +1,4 @@
-package myjava.oops.inheritance;
+package core.oops.inheritance;
 
 /**
  * TODO: implement examples for all kinds of inheritance.

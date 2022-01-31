@@ -1,11 +1,8 @@
-package myjava.oops.misc.recursion;/*
+package core.oops.misc.recursion;/*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-;
-
-import myjava.oops.misc.recursion.Numbers;
 
 /**
  *

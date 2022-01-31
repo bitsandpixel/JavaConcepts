@@ -1,4 +1,4 @@
-package myjava.oops.polymorphism.runtimepolymorphism;
+package core.oops.polymorphism.runtimepolymorphism;
 
 /**
  * @author Vishnu Kandanelly

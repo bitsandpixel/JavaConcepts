@@ -1,4 +1,4 @@
-package myjava.datastructures.misc;
+package core.datastructures.misc;
 
 import java.util.Arrays;
 

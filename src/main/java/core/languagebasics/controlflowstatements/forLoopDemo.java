@@ -1,4 +1,4 @@
-package myjava.languagebasics.controlflowstatements;
+package core.languagebasics.controlflowstatements;
 
 import java.util.Scanner;
 
